@@ -29,7 +29,7 @@ A ideia de criptografar seus discos USB e pendrives é semelhante à [criptograf
 
 Ao fim deste arquivo, você irá saberá como criptografar seu dispositivo USB para protegê-lo.
 
-## Checking Windows Release
+## Checar versão do Windows
 
 BitLocker é o software de criptografia de disco rígido que vem embutido no Windows. Infelizmente, nem todas as versões do sistema operacional têm essa ferramenta. Primeiro, verifique se você tem o Windows Pro ou Enterprise no seu computador
 
