@@ -1,0 +1,54 @@
+---
+title: Comunidade
+published: false
+metadata:
+    author: 'Raphael Hernandes'
+    description: 'Interessado em privacidade? Participe de nossa comunidade'
+    'og:title': 'Comunidade | Privacidade para Jornalistas'
+    'og:type': article
+    'og:description': 'Interessado em privacidade? Participe de nossa comunidade'
+    'og:image': 'ttps://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
+    'twitter:card': summary_large_image
+    'twitter:site': '@privacidadeJorn'
+    'twitter:creator': '@rhhernandes'
+    'twitter:title': 'Comunidade | Privacidade para Jornalistas'
+    'twitter:description': 'Interessado em privacidade? Participe de nossa comunidade'
+    'twitter:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
+external_links:
+    process: true
+    title: false
+    no_follow: false
+    target: _blank
+    mode: active
+process:
+    markdown: true
+    twig: true
+---
+
+# Community
+
+We are a bunch of friendly people trying to help journalists with protecting their information sources. You can reach out to our friendly community on the followings:
+
+## Contribute
+
+If you have some valuable content to add to this website, simply visit our **<i class="fa fa-github" aria-hidden="true"></i> GitHub** repo on [cryptoaustralia/pfj](https://github.com/cryptoaustralia/pfj) and submit a pull request. We will review and add to the Privacy for Journalists guides.
+
+## Chat
+
+Join our community on <i class="fa fa-slack" aria-hidden="true"></i> **Slack**! [Click here](https://slack.privacyforjournalists.org.au) to register a user account and start babbling.
+
+## Email
+
+If you prefer communicating with us privately, email us on the following:
+
+<i class="fa fa-envelope" aria-hidden="true"></i> **{{ "hello@privacyforjournalists.org.au" | safe_email }}**
+
+### Our PGP Key
+
+<i class="fa fa-lock" aria-hidden="true"></i> [69F5 4C1D DAAD 2B67](https://privacyforjournalists.org.au/keys/hello.asc)
+
+[https://keybase.io/privacyjournau](https://keybase.io/privacyjournau?target=_blank)
+
+## Social Media
+
+<i class="fa fa-twitter" aria-hidden="true"></i> [PrivacyJournAU](https://twitter.com/PrivacyJournAU?target=_blank)
