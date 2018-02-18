@@ -4,7 +4,7 @@ published: true
 metadata:
     author: 'Raphael Hernandes'
     description: 'Sobre | Privacidade para Jornalistas'
-    'og:title': 'Links úteis para Jornalistas'
+    'og:title': 'Sobre | Privacidade para Jornalistas'
     'og:type': article
     'og:description': 'Quem somos nós e o que fazemos? Descubra aqui'
     'og:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
@@ -14,6 +14,12 @@ metadata:
     'twitter:title': 'Sobre | Privacidade para Jornalistas'
     'twitter:description': 'Quem somos nós e o que fazemos? Descubra aqui'
     'twitter:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
+taxonomy:
+    category:
+        - 'Privacidade para Jornalistas'
+    tag:
+        - 'Privacidade para Jornalistas'
+        - Sobre
 external_links:
     process: true
     title: false
