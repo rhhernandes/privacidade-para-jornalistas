@@ -1,6 +1,21 @@
 ---
 title: 'Colabore com o Privacidade para Jornalistas pelo GitHub'
-published: false
+published: true
+date: '18-02-2018 20:00'
+publish_date: '18-02-2018 20:00'
+metadata:
+    author: 'Raphael Hernandes'
+    description: 'Colabore conosco pelo GitHub (ou fora dele) | Privacidade para Jornalistas'
+    'og:title': 'Colabore conosco pelo GitHub (ou fora dele) | Privacidade para Jornalistas'
+    'og:type': article
+    'og:description': 'Agora você pode compartilhar com o Privacidade para Jornalistas pelo GitHub. Não faz ideia do que é isso? Sem problemas! Há várias formas de contribuir :)'
+    'og:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
+    'twitter:card': summary_large_image
+    'twitter:site': '@privacidadeJorn'
+    'twitter:creator': '@rhhernandes'
+    'twitter:title': 'Colabore conosco pelo GitHub (ou fora dele) | Privacidade para Jornalistas'
+    'twitter:description': 'Agora você pode compartilhar com o Privacidade para Jornalistas pelo GitHub. Não faz ideia do que é isso? Sem problemas! Há várias formas de contribuir :)'
+    'twitter:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
 taxonomy:
     category:
         - 'Privacidade para Jornalistas'
@@ -9,7 +24,11 @@ taxonomy:
         - Atualização
         - Colaborar
 external_links:
+    process: true
+    no_follow: true
     target: _blank
+    mode: active
+header_image: '0'
 ---
 
 O **Privacidade para Jornalistas** agora está disponível no GitHub e você pode colaborar com conteúdo para o site diretamente pela plataforma.
