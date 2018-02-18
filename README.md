@@ -73,7 +73,7 @@ Para adicionar uma imagem, como elas estarão anexadas diretamente na pasta do t
 
 ##### Recorte automático de imagem
 
-Graças ao plugin Featherlight, podemos fazer um recorte automático da imagem por meio de lightbox. Basta adicionar os parâmetros após o nome do arquivo:
+Graças ao plugin [Featherlight](https://github.com/getgrav/grav-plugin-featherlight), podemos fazer um recorte automático da imagem por meio de lightbox. Basta adicionar os parâmetros após o nome do arquivo:
 
 ```
 ![Algum nome para a imagem](nomedoarquivo.png?lightbox=1024&cropResize=600,600)
