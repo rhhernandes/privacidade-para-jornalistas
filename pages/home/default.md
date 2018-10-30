@@ -25,7 +25,7 @@ visible: true
 
 ### Proteja suas fontes
 
-![Big Brother is watching you](line.png)
+![](line.png)
 
 **Privacidade para Jornalistas** ajuda repórteres no Brasil a proteger suas fontes de:
 
