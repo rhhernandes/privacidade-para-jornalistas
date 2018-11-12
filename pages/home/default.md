@@ -10,7 +10,7 @@ metadata:
     'og:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
     'twitter:card': summary_large_image
     'twitter:site': '@privacidadeJorn'
-    'twitter:creator': '@rhhernandes'
+    'twitter:creator': '@hernandesraph'
     'twitter:title': 'Privacidade para Jornalistas'
     'twitter:description': 'Ajudando repórteres no Brasil a proteger seus dados e suas fontes'
     'twitter:image': 'https://privacidadeparajornalistas.org/user/themes/pfjbr/images/social.png'
