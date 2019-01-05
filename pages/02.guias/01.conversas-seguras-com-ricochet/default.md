@@ -39,37 +39,37 @@ Este guia mostra a instalação do [Ricochet](https://ricochet.im?target=_blank)
 
 * Instale o Ricochet como qualquer outro programa
 
-![](install-1.PNG?lightbox=1024&cropResize=600,600)
+![](install-1.png?lightbox&cropResize=600,600)
 
 ![](install-2.PNG?lightbox=1024&cropResize=600,600)
 
-![Install Ricochet](install-3.png?lightbox=1024&cropResize=600,600)
+![](install-3.png?lightbox=1024&cropResize=600,600)
 
-![Install Ricochet](install-4.png?lightbox=1024&cropResize=600,600)
+![](install-4.png?lightbox=1024&cropResize=600,600)
 
 ![](https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/install-5.png?lightbox=1024&cropResize=600,600)
 
 * Agora, inicie o Ricochet
 
-![Launch Ricochet](launching-1.png?lightbox=1024&cropResize=600,600)
+![](launching-1.png?lightbox=1024&cropResize=600,600)
 
 * Pressione o botão _'Connect'_ para se conectar à rede Tor
 
-![Launch Ricochet](launching-2.png?lightbox=1024&cropResize=600,600)
+![](launching-2.png?lightbox=1024&cropResize=600,600)
 
 !!! Tudo o que você precisa para se conectar já está dentro do Ricochet, você não precisa rodar o navegador Tor
 
 * Espere o programa se conectar
 
-![Launch Ricochet](launching-3.png?lightbox=1024&cropResize=600,600)
+![](launching-3.png?lightbox=1024&cropResize=600,600)
 
 * Uma vez que Ricochet está conectado ao Tor, uma lista de contatos aparece
 
-![Launch Ricochet](launching-4.png?lightbox=1024&cropResize=600,600)
+![](launching-4.png?lightbox=1024&cropResize=600,600)
 
 * Quando a lista de contatos aparecer, clique no símbolo '**+**'. A sua Ricochet ID aparecerá na tela
 
-![Get Ricochet ID](publishing-id-1.png?lightbox=1024&cropResize=600,600)
+![](publishing-id-1.png?lightbox=1024&cropResize=600,600)
 
 ## Publique seu Ricochet ID no Twitter
 
@@ -77,19 +77,19 @@ Você precisa publicar a sua Ricochet ID, assim outros podem te encontrar na red
 
 * Escreva um tweet com o seu Ricochet ID
 
-![Tweet Ricochet ID](publishing-id-2.png?lightbox=1024&cropResize=600,600)
+![](publishing-id-2.png?lightbox=1024&cropResize=600,600)
 
 ## Como outros entrarão em contato
 
 * A pessoa que quiser entrar em contato com você precisa do seu Ricochet ID
 
-![Get Ricochet ID from Twitter](getting-id-1.png?lightbox=1024&cropResize=600,600)
+![](getting-id-1.png?lightbox=1024&cropResize=600,600)
 
 * A outra pessoa aperta o botão'**+**' no cliente dela e adiciona seu Ricochet ID
 
-![Adding Ricochet Buddy](getting-id-2.png?lightbox=1024&cropResize=600,600)
+![](getting-id-2.png?lightbox=1024&cropResize=600,600)
 
-![Adding Ricochet Buddy](getting-id-3.png?lightbox=1024&cropResize=600,600)
+![](getting-id-3.png?lightbox=1024&cropResize=600,600)
 
 * Uma vez que a outra pessoa lhe adicionar à lista de contatos, a solicitação para se conectar ficará esperando
 
