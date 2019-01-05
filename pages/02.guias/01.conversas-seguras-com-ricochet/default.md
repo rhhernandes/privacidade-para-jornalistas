@@ -47,7 +47,7 @@ Este guia mostra a instalação do [Ricochet](https://ricochet.im?target=_blank)
 
 ![Install Ricochet](install-4.png?lightbox=1024&cropResize=600,600)
 
-![Install Ricochet](install-5.png?lightbox=1024&cropResize=600,600)
+![](https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/install-5.png?lightbox=1024&cropResize=600,600)
 
 * Agora, inicie o Ricochet
 
