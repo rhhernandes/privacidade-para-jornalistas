@@ -14,8 +14,6 @@ metadata:
     'twitter:description': 'Este guia mostra a instalação do mensageiro instantâneo Ricochet, que não deixa metadados'
     'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/sending-im-1.png'
 taxonomy:
-    category:
-        - chat
     tag:
         - windows
         - 'no metadata'
@@ -41,7 +39,7 @@ Este guia mostra a instalação do [Ricochet](https://ricochet.im?target=_blank)
 
 * Instale o Ricochet como qualquer outro programa
 
-![Install Ricochet](install-1.PNG?lightbox=1024&cropResize=600,600)
+![](install-1.PNG?lightbox=1024&cropResize=600,600)
 
 ![Install Ricochet](install-2.png?lightbox=1024&cropResize=600,600)
 
