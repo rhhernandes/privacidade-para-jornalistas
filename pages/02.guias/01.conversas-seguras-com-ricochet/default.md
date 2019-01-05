@@ -93,21 +93,21 @@ Você precisa publicar a sua Ricochet ID, assim outros podem te encontrar na red
 
 * Uma vez que a outra pessoa lhe adicionar à lista de contatos, a solicitação para se conectar ficará esperando
 
-![Pending Ricochet Request](getting-id-4.png?lightbox=1024&cropResize=600,600)
+![](getting-id-4.png?lightbox=1024&cropResize=600,600)
 
 ## Aceite as solicitações
 
 * Uma janela deverá notificar você das solicitações pendentes
 
-![Accepting Buddy Request](accepting-request-1.png?lightbox=1024&cropResize=600,600)
+![](accepting-request-1.png?lightbox=1024&cropResize=600,600)
 
 * Depois que a conexão for aceita, ela deverá aparecer na sua lista de contatos
 
-![Buddy on the Contact List](accepting-request-2.png?lightbox=1024&cropResize=600,600)
+![](accepting-request-2.png?lightbox=1024&cropResize=600,600)
 
 * A outra pessoa verá que a solicitação foi aceita
 
-![Buddy on the Contact List](accepting-request-3.png?lightbox=1024&cropResize=600,600)
+![](accepting-request-3.png?lightbox=1024&cropResize=600,600)
 
 ## Trocando mensagens com Ricochet
 
@@ -115,14 +115,14 @@ Qualquer uma das aprtes podem agora começar uma conversa. No exemplo a seguir, 
 
 * A outra pessoa clica duas vezes no seu nome de contato. Uma caixa mostra onde as mensagens podem ser escritas
 
-![Sending an IM over Ricochet](sending-im-1.png?lightbox=1024&cropResize=600,600)
+![](sending-im-1.png?lightbox=1024&cropResize=600,600)
 
 * A mensagem aparecerá numa janela no seu computador
 
-![Sending an IM over Ricochet](sending-im-2.png?lightbox=1024&cropResize=600,600)
+![](sending-im-2.png?lightbox=1024&cropResize=600,600)
 
 * Se você mandar algo de volta, aparecerá na outra ponta
 
-![Sending an IM over Ricochet](sending-im-3.png?lightbox=1024&cropResize=600,600)
+![](sending-im-3.png?lightbox=1024&cropResize=600,600)
 
 ! Ricochet não consegue enviar ou receber arquivos. Veja nossos [**guias sobre troca de arquivos**](https://privacidadeparajornalistas.org/guias#troca-de-arquivos) para encontrar técnicas apropriadas.
