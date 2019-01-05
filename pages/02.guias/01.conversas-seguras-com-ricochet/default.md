@@ -35,7 +35,7 @@ Este guia mostra a instalação do [Ricochet](https://ricochet.im?target=_blank)
 
 * Primeiro, acesse [https://ricochet.im](https://ricochet.im?target=_blank) para baixar o Ricochet
 
-![](download-ricochet.png?lightbox&cropResize=800,800)
+![](download-ricochet.png)
 
 * Instale o Ricochet como qualquer outro programa
 
