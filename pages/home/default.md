@@ -25,7 +25,7 @@ visible: true
 
 ### Proteja suas fontes
 
-![](theme://line.png)
+![](theme:line.png)
 
 **Privacidade para Jornalistas** ajuda repórteres no Brasil a proteger suas fontes de:
 
