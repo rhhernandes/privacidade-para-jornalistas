@@ -25,6 +25,8 @@ taxonomy:
 
 [TOC]
 
+a
+
 Nem todo serviço de armazenamento de arquivos na nuvem funcionam de forma igual. Embora quase todos usem criptografia para transferir e armazenar os arquivos, há detalhes importantes a serem considerados.
 
 Serviços populares --como Dropbox e o Microsoft OneDrive-- tem acesso às chaves para descriptografar os arquivos. Em outras palavras, as empresas podem acessar seus arquivos para fazer coisas como [detectar mídia pirata](http://www.wired.co.uk/article/dropbox-dmca-position?target=_blank) nas suas pastas, ou fornecer informações quando [intimados por um mandado](#servicos-sem-conhecimento-zero), por exemplo.
