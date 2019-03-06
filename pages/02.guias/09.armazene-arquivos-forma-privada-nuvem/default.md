@@ -41,7 +41,7 @@ As sessões a seguir vão te ensinar a se registrar e a configurar o [sync.com](
 
 * Acesse [sync.com](https://www.sync.com/?target=_blank) e clique no botão **Free signup**, no canto superior direito
 
-![](sync_main_page.PNG?lightbox&cropResize=800,800)
+![](sync_main_page.PNG?lightbox=1024&cropResize=800,800)
 
 * Insira seu email e uma senha forte
 
