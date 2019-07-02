@@ -27,7 +27,7 @@ external_links:
     no_follow: false
     target: _blank
     mode: active
-menu: 'Sobre nós'
+menu: Sobre
 process:
     markdown: true
     twig: true
