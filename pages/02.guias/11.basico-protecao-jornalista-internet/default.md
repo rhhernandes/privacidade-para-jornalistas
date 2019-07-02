@@ -29,106 +29,113 @@ taxonomy:
 
 Por **Raphael Hernandes** | [@hernandesraph](https://twitter.com/hernandesraph)
 
-Quando se trata de se comunicar com alguém, um problema é que ambas as partes deixam metadados para trás. No Brasil, essa informação é retida pelos provedores por um ano.
+A gente sabe que jornalista procura fugir das exatas e do que é muito complexo tecnicamente. Não dá tempo. Mas a gente também sabe que é fundamental ao repórter saber proteger a si e a suas fontes online. 
 
-!!! **Metadados** podem ser usados para relacionar o jornalista às suas fontes
+Por isso, a ideia deste guia é ensinar ao leigo como montar defesas eficientes em meios digitais. Sem paranoia. Para tanto, é importante conhecer alguns conceitos e entender como pensar nesse mundo: o processo é mais importante que as ferramentas (mas, claro, citamos algumas depois).
 
-Este guia mostra a instalação do [Ricochet](https://ricochet.im?target=_blank). No fim deste guia, você terá o programa instalado no seu computador e poderá compartilhar seus contatos no Twitter para que outras pessoas possam entrar em contato contigo anonimamente. 
+!!!! Dica: saiba se seus dados pessoais já estiveram envolvidos em algum vazamento em [haveibeenpwned.com](https://haveibeenpwned.com/). Basta inserir seu email e/ou nome de usuário e procurar. No menu do topo, ative a opção "Notify me" para receber alertas caso suas informações estejam em algum _leak_. O site não reúne todos os vazamentos possíveis e imagináveis, mas é um bom começo.
 
-!!!! Ricochet opera na rede Tor de maneira descentralizada, então os metadados não são guardados em lugar nenhum
+Comecemos por entender um pouco mais sobre a atuação do nosso protagonista nessa história: o hacker.
 
-## Download do Ricochet
+## O hacker
 
-* Primeiro, acesse [https://ricochet.im](https://ricochet.im?target=_blank) para baixar o Ricochet
+A pessoa responsável por ataques, no dia a dia, não necessariamente é uma pessoa com conhecimento técnico muito avançado. 
 
-![](download-ricochet.png)
+Hoje, é possível comprar ferramentas prontas que podem ser usadas para realizar diferentes tipos de ataques. E nem é necessário procurar muito. Algumas delas são compradas legalmente e estão a uma busca no Google e um cartão de crédito de distância.
 
-* Instale o Ricochet como qualquer outro programa
+Essa popularização faz com que sejam mais comuns ataques menos sofisticados, que poderiam ser facilmente evitados com medidas básicas de segurança. 
 
-![](install-1.png?lightbox&cropResize=800,800)
+Hackers extremamente qualificados existem, inclusive no Brasil. Estes, no entanto, normalmente estão preocupados com coisas maiores --tipo ganhar dinheiro desenvolvendo essas ferramentas que serão exploradas por atacantes com menor conhecimento técnico.
 
-![](install-2.PNG?lightbox&cropResize=600,600)
+!!!! No Brasil, os atacantes são muitas vezes criativos e ousados (agem às claras e sem muito medo de serem pegos). Exemplo disso nesta [reportagem da Folha](https://www1.folha.uol.com.br/mercado/2018/03/fraude-em-cartao-oferece-suporte-tecnico.shtml).
 
-![](install-3.png?lightbox=1024&cropResize=600,600)
+## Os ataques
 
-![](install-4.png?lightbox=1024&cropResize=600,600)
+Ataques contra jornalistas não são novidades. Os objetivos e os adversários variam. Casos clássicos focam em quebra de sigilo de fonte, ataques à reputação do repórter/veículo e para espalhar desinformação.
 
-![](https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/install-5.png?lightbox=1024&cropResize=600,600)
+Quebra de sigilo telefônico é um velho conhecido, mas casos recentes incluem condução coercitiva de jornalista que teve seus eletrônicos apreendidos, repórteres com WhatsApp hackeado, casos de espionagem em fronteira e roubo de redes sociais por grupos ciberterroristas.
 
-* Agora, inicie o Ricochet
+(imagens roubo)
 
-![](launching-1.png?lightbox=1024&cropResize=600,600)
+As consequências de um ataque podem incluir a publicação de informações falsas, envio de emails falsos para atacar colegas, acesso a informações sensíveis (fontes, por ex.) e perda de reputação.
 
-* Pressione o botão _'Connect'_ para se conectar à rede Tor
+Uma boa proteção começa ao entender que o que normalmente é entendido por _hacking_, ou a invasão de um sistema, é apenas um dos possíveis problemas.
 
-![](launching-2.png?lightbox=1024&cropResize=600,600)
+O atacante tem um objetivo a cumprir, e isso não quer dizer que ele precise tomar controle completo de sua vida digital para atingí-lo. Via de regra, o mais simples é melhor. 
 
-!!! Tudo o que você precisa para se conectar já está dentro do Ricochet, você não precisa rodar o navegador Tor
+!!! Ex.: ao ativar uma conta de WhatsApp, o aplicativo manda uma mensagem de SMS com um código para o usuário. Um criminoso precisa dessa informação para roubar uma conta no mensageiro. Em vez de tentar interceptar as mensagens de texto enviadas para o número da vítima, ele pode simplesmente dar um jeito de convencê-la (ludibriar) a passar esse número para ele.
 
-* Espere o programa se conectar
+Eis alguns exemplos das principais ameaças:
 
-![](launching-3.png?lightbox=1024&cropResize=600,600)
+* Hacking
+	* Malwares (vírus e afins)
+	* Backdoors (brechas deixadas propositalmente em sistemas para que informações mesmo criptografadas sejam acessíveis sem a senha, mediante ordem judicial, por ex.
+* Engenharia social
+	* Phishing (envio de emails falsos para roubar informações)
+	* Papagaio de pirata (ficar de olho na tela da vítima, fisicamente)
+* Ataques legais
+	* Quebra de sigilo
+* Furtos
 
-* Uma vez que Ricochet está conectado ao Tor, uma lista de contatos aparece
+Em um ataque, essas ameaças podem se associar.
 
-![](launching-4.png?lightbox=1024&cropResize=600,600)
+Por mais simples ou óbvio que possam parecer alguns desses, é importante levar tudo isso em consideração ao montar uma defesa. Novamente: o que é mais simples é também mais provável de acontecer.
 
-* Quando a lista de contatos aparecer, clique no símbolo '**+**'. A sua Ricochet ID aparecerá na tela
+!! O Marco Civil da Internet obriga operadoras de telefonia a armazenar informações de navegação de seus usuários por um ano e esses dados podem ser usados pelo governo em investigações. Com eles, é possível descobrir quem se comunicou com quem, e que horas.
 
-![](publishing-id-1.png?lightbox=1024&cropResize=600,600)
+## Como se defender
 
-## Publique seu Ricochet ID no Twitter
+### O custo
 
-Você precisa publicar a sua Ricochet ID, assim outros podem te encontrar na rede. O Twitter é uma boa plataforma para publicar seu ID.
+Que fique bem claro: **defesa custa**. Não é grátis.
 
-* Escreva um tweet com o seu Ricochet ID
+O custo não é necessariamente financeiro. Pode ser a conveniência de digitar uma senha a mais, ou até de deixar de usar um serviço popular por não ser a opção mais segura naquele momento. Isso é igual ao mundo físico: é mais trabalhoso trancar três fechaduras na porta, colocar alarme no carro custa dinheiro e por aí vai.
 
-![](publishing-id-2.png?lightbox=1024&cropResize=600,600)
+### Data at rest vs data in motion
 
-## Como outros entrarão em contato
+É importante se lembrar que nem todo dado está em trânsito. Tão importante quanto proteger a mensagem que é enviada do ponto A para o ponto B, é importante proteger o local onde ela fica armazenada depois --às vezes esquecemos do segundo. 
 
-* A pessoa que quiser entrar em contato com você precisa do seu Ricochet ID
+### Abordagem do castelo
 
-![](getting-id-1.png?lightbox=1024&cropResize=600,600)
+Um bom sistema de defesa funciona como um castelo medieval. O rei poderia ficar dentro de uma sala fechada, com guardas na porta, cercado por uma parede e um rio cheio de crocodilos. A lógica é: se uma defesa falha, tem a outra. Redundância é chave no mundo digital também (o conceito se chama _defense in depth_). Ou seja, a resposta pra "mas eu já uso antivírus, tenho que ter senha forte também?" é "sim".
 
-* A outra pessoa aperta o botão'**+**' no cliente dela e adiciona seu Ricochet ID
+### Análise de ameaças
 
-![](getting-id-2.png?lightbox=1024&cropResize=600,600)
+Para não cair na paranoia, é bom fazer uma análise de ameaças caso a caso, a cada reportagem. Também é bom conhecer as ferramentas que estão sendo usadas para não cometer deslizes ao achar que está mais seguro do que realmente está.
 
-![](getting-id-3.png?lightbox=1024&cropResize=600,600)
+Pergunte-se:
 
-* Uma vez que a outra pessoa lhe adicionar à lista de contatos, a solicitação para se conectar ficará esperando
+* O que você não quer que os outros saibam?
+* Por que alguém iria querer saber isso? Quem?
+* Como alguém pode conseguir essa informação?
+* O que acontece se o atacante vencer?
 
-![](getting-id-4.png?lightbox=1024&cropResize=600,600)
+Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário. Quem pode querer te atacar? O mais óbvio é o assunto da matéria. Aí é importante pensar no histórico desse atacante para saber o que ele pode fazer: um ataque jurídico? Ficar na porta da sua casa esperando você sair pra roubar seu telefone?
 
-## Aceite as solicitações
+### Boas práticas
 
-* Uma janela deverá notificar você das solicitações pendentes
+* Mantenha tudo atualizado. Alguns dos principais problemas recentes seriam evitados com atualizações de softwares e sistemas.
 
-![](accepting-request-1.png?lightbox=1024&cropResize=600,600)
+(imagem wannacry)
 
-* Depois que a conexão for aceita, ela deverá aparecer na sua lista de contatos
+* Cuide bem das suas **senhas**. **Não repita** a mesma senha em lugares diferentes e as troque com frequência. Uma boa senha é uma combinação de caracteres aleatórios.
+	* Para gerir as senhas (e criar boas senhas novas) é recomendável o uso de um gerenciador de senhas. Algumas opções:
+		* [Lastpass](https://www.lastpass.com/pt)
+		* [1Password](https://1password.com/pt/) 
+		* [Keepass](https://keepass.info/)
 
-![](accepting-request-2.png?lightbox=1024&cropResize=600,600)
+* Vá além da senha e ative a autenticação de dois fatores (2FA) --aquele negócio que nem os bancos têm, no qual além de digitar a senha, você tem que inserir um código presente no celular. Sempre que possível, evite usar SMS como método de validação. [Este site](http://turnon2fa.com) ensina a ativar a verificação de duas etapas em todos os serviços mais populares. 
 
-* A outra pessoa verá que a solicitação foi aceita
+* Tenha bom senso e trate sua segurança virtual como trata a do mundo físico. Não entre em links estranhos assim como não entraria num beco desconhecido. Cuidado com dispositivos USBs estranhos (não use um pen drive cuja procedência desconhece).
 
-![](accepting-request-3.png?lightbox=1024&cropResize=600,600)
+* Seus dados pessoais podem ser uma arma nas mãos de atacantes (e golpistas). Lembra daquela conta antiga do MySpace? Pode ser a hora de apagar.
 
-## Trocando mensagens com Ricochet
+* Celulares são um desastre. Coletam muitas informações o tempo todo, e esses dados vão parar em muitos lugares diferentes --afinal, são muitos aplicativos capturando dados simultaneamente. Se vai discretamente encontrar uma fonte que não pode ser identificada, talvez seja melhor deixar o telefone em casa.
 
-Qualquer uma das aprtes podem agora começar uma conversa. No exemplo a seguir, a pessoa está entrando em contato com o jornalista.
+* Use antivírus, inclusive no celular. Prefira marcas conhecidas. Muitas têm promoções se comprar para computador e celular ao mesmo tempo (sim, tem que pagar).
 
-* A outra pessoa clica duas vezes no seu nome de contato. Uma caixa mostra onde as mensagens podem ser escritas
+* Não digite senhas e informações sensíveis em sites que não têm HTTPS (aquele cadeadinho ao lado do endereço do site). 
 
-![](sending-im-1.png?lightbox=1024&cropResize=600,600)
+* 
 
-* A mensagem aparecerá numa janela no seu computador
-
-![](sending-im-2.png?lightbox=1024&cropResize=600,600)
-
-* Se você mandar algo de volta, aparecerá na outra ponta
-
-![](sending-im-3.png?lightbox=1024&cropResize=600,600)
-
-! Ricochet não consegue enviar ou receber arquivos. Veja nossos [**guias sobre troca de arquivos**](https://privacidadeparajornalistas.org/guias#troca-de-arquivos) para encontrar técnicas apropriadas.
+## Comunicação segura
