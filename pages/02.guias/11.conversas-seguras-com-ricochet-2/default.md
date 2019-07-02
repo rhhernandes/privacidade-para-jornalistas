@@ -1,5 +1,6 @@
 ---
 title: 'Conversas seguras com Ricochet 2'
+published: false
 metadata:
     author: 'Raphael Hernandes'
     description: 'Este guia mostra a instalação do mensageiro instantâneo Ricochet, que não deixa metadados'
