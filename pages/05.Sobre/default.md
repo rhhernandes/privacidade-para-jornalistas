@@ -35,9 +35,9 @@ process:
 
 # Sobre
 
-Nossa missão é ensinar jornalistas sobre perigos que podem encontrar num ambiente digital e ensinar a combatê-los, de modo a ajudar a garantir a privacidade dos profissionais e o sigilo de suas fontes.
+O Privacidade para Jornalistas quer ensinar jornalistas sobre perigos que podem encontrar num ambiente digital e ensinar a combatê-los, de modo a ajudar a garantir a privacidade dos profissionais e o sigilo de suas fontes.
 
-O Privacidade para Jornalistas foi originado a partir do [Privacy for Journalists](https://privacyforjournalists.org.au/), projeto da [CryptoAUSTRALIA](https://cryptoaustralia.org.au).
+O projeto foi originado a partir do [Privacy for Journalists](https://privacyforjournalists.org.au/), da [CryptoAUSTRALIA](https://cryptoaustralia.org.au).
  
 ## Autores
 
