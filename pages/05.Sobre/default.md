@@ -1,5 +1,6 @@
 ---
 title: Sobre
+media_order: hernandesraph.jpg
 published: true
 metadata:
     author: 'Raphael Hernandes'
@@ -40,7 +41,9 @@ O Privacidade para Jornalistas foi originado a partir do [Privacy for Journalist
  
 ## Autores
 
-<img src="https://privacidadeparajornalistas.org/user/pages/05.Sobre/rhhernandes.jpg" width="192" align="left" hspace=7 alt="Raphael Hernandes">
+<img src="https://privacidadeparajornalistas.org/user/pages/05.Sobre/hernandesraph.jpg" width="192" align="left" hspace=7 alt="Raphael Hernandes">
+
+
 **Raphael Hernandes**
 Jornalista, trabalha na *Folha de S.Paulo*, e tem passagens por *O Estado de S. Paulo* e *RPC*.
 <br> [Portfolio](https://raphaelhernandes.com/) | [Twitter](https://twitter.com/hernandesraph) | [LinkedIn](https://www.linkedin.com/in/raphaelhernandes/) | [GitHub](https://github.com/rhhernandes) | [E-mail](mailto:raphael@privacidadeparajornalistas.org)
