@@ -18,14 +18,16 @@ taxonomy:
     category:
         - 'Privacidade para Jornalistas'
     tag:
+        - 'end-to-end encryption'
         - segurança
         - comunicação
-        - 'end-to-end encryption'
 ---
 
 # Guia básico para a proteção do jornalista na Internet
 
 [TOC]
+
+Por **Raphael Hernandes** | [@hernandesraph](https://twitter.com/hernandesraph)
 
 Quando se trata de se comunicar com alguém, um problema é que ambas as partes deixam metadados para trás. No Brasil, essa informação é retida pelos provedores por um ano.
 
