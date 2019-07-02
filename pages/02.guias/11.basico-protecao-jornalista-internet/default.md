@@ -136,6 +136,6 @@ Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário.
 
 * Não digite senhas e informações sensíveis em sites que não têm HTTPS (aquele cadeadinho ao lado do endereço do site). 
 
-* 
+* Cuidado com os metadados, informações que ficam escondidas nos arquivos e trazem dados como o local onde uma foto foi tirada ou quem criou um documento de Word. Eles podem, por exemplo, entregar a localização de uma fonte que esteja escondida. Existem [várias formas de excluir metadados](https://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/) de um arquivo. A mais segura, muitas vezes, pode ser tirar prints das fotos ou documentos que quer publicar e usar essas imagens em vez do arquivo original.
 
 ## Comunicação segura
