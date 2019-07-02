@@ -1,5 +1,6 @@
 ---
 title: 'Colabore com o Privacidade para Jornalistas pelo GitHub 2'
+published: false
 date: '18-02-2018 20:00'
 publish_date: '18-02-2018 20:00'
 metadata:
