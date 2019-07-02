@@ -40,8 +40,8 @@ Recomendamos ler nosso guia de [análise de ameaças](/ameacas) antes, para pode
 | ---- | --------------- | ----------- |
 | [**Como gerar chaves PGP**](criar-chaves-pgp-windows) no Windows (1/4) | Sim | A primeira parte da série mostra a instalação e o processo de gerar uma chave PGP no Windows |
 | [**Como configurar o Thunderbird e PGP**](configurar-thunderbird-pgp) no Windows (2/4) | Sim | A segunda parte guia você na instalação e configuração do Mozilla Thunderbird como gerenciador de emails para enviar e receber mensagens encriptadas |
-| [**Como publicar sua chave pública PGP na Internet**](divulgar-chave-publica-PGP) no Windows (3/4) | Sim | A terceira parte da série mostra como você pode divulgar a parte pública da sua chave na internet, inclusive na sua conta  no Twitter |
-| [**Como enviar email criptografados usando PGP**](enviar-emails-criptografados-com-PGP) no Windows (4/4) | Sim | Na última parte da série, ajudaremos você a enviar e a receber seu primeiro email encriptado |
+| [**Como publicar sua chave pública PGP na Internet**](divulgar-chave-publica-pgp) no Windows (3/4) | Sim | A terceira parte da série mostra como você pode divulgar a parte pública da sua chave na internet, inclusive na sua conta  no Twitter |
+| [**Como enviar email criptografados usando PGP**](enviar-emails-criptografados-com-pgp) no Windows (4/4) | Sim | Na última parte da série, ajudaremos você a enviar e a receber seu primeiro email encriptado |
 | **Configurar PGP** no macOS | Sim | _Em breve_ |
 
 ! O uso de **PGP** (sigla em inglês para "privacidade muito boa", um programa de encriptação de dados) é uma [boa forma de proteger o conteúdo](../ameacas#cenario-1) das conversas entre duas partes, mas não esconde o fato de que elas existiram
