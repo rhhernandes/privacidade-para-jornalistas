@@ -144,7 +144,9 @@ Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário.
 
 * Mantenha o HD do computador **criptografado**. Dessa forma, se alguém tiver acesso ao seu PC, não conseguirá extrair os arquivos facilmente. Há opções para isso no [Windows](https://privacidadeparajornalistas.org/guias/criptografe-seu-hd-bitlocker), [Mac](https://support.apple.com/pt-br/HT204837) e [Linux](https://averagelinuxuser.com/encrypt-hard-drive-in-linux/). O mesmo é possível em celulares iOS e Android, nas configurações.
 
-* **Apagar um arquivo** não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás.
+* **Apagar um arquivo** não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás. Outra opção é o [Eraser](https://eraser.heidi.ie/).
+
+! Cuidado: esse método de apagar arquivos não é 100% seguro. Por isso, é bom usar nomes genéricos em arquivos mais sensíveis. Em vez de salvar um arquivo com o nome "Lista de pessoas que receberam propina", prefira algo como "discurso de fim de ano".
 
 * Uso de serviços de **VPN** (como o super fácil de usar [NordVPN](https://nordvpn.com/pt-br/)) ajuda trazer mais segurança ao se conectar wifi compartilhados (no metrô, em hotéis...). Usar VPNs não confiáveis pode ser um problemão, então opções de procedência duvidosa são **extremamente** perigosas.
 
