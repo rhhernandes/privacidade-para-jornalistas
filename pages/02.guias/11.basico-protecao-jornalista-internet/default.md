@@ -89,9 +89,10 @@ Tentativa de Phishingn simula mensagem de banco para roubar informações da ví
 
 ## Como se defender
 
+
 ### O custo
 
-Que fique bem claro: **defesa custa**. Não é grátis.
+Que fique bem claro: **não é grátis**.
 
 O custo não é necessariamente financeiro. Pode ser a conveniência de digitar uma senha a mais, ou até de deixar de usar um serviço popular por não ser a opção mais segura naquele momento. Isso é igual ao mundo físico: é mais trabalhoso trancar três fechaduras na porta, colocar alarme no carro custa dinheiro e por aí vai.
 
