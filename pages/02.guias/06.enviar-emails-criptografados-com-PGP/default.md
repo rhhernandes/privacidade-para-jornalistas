@@ -32,8 +32,8 @@ Este tutorial é a quarta parte de uma série com quatro guias o uso do PGP para
 | ---- | --------------- | ----------- |
 | 1 | [**Como gerar chaves PGP**](../criar-chaves-pgp-windows) | A primeira parte da série mostra a instalação e o processo de gerar uma chave PGP no Windows |
 | 2 | [**Como configurar o Thunderbird e PGP**](../configurar-thunderbird-pgp) |  A segunda parte guia você na instalação e configuração do Mozilla Thunderbird como gerenciador de emails para enviar e receber mensagens encriptadas |
-| 3 | [**Como publicar sua chave pública PGP na Internet**](../divulgar-chave-publica-PGP) | A terceira parte da série mostra como você pode divulgar a parte pública da sua chave na internet, inclusive na sua conta  no Twitter |
-| 4 | [**Como enviar email criptografados usando PGP**](../enviar-emails-criptografados-com-PGP) | Na última parte da série, ajudaremos você a enviar e a receber seu primeiro email encriptado |
+| 3 | [**Como publicar sua chave pública PGP na Internet**](../divulgar-chave-publica-pgp) | A terceira parte da série mostra como você pode divulgar a parte pública da sua chave na internet, inclusive na sua conta  no Twitter |
+| 4 | [**Como enviar email criptografados usando PGP**](../enviar-emails-criptografados-com-pgp) | Na última parte da série, ajudaremos você a enviar e a receber seu primeiro email encriptado |
 
 ## Encontrar uma chave pública PGP
 
