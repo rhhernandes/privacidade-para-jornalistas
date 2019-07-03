@@ -1,6 +1,6 @@
 ---
-title: 'Guia básico para a proteção do jornalista na Internet'
-media_order: 'wannacry.jpg,Cópia de Phishing.png'
+title: 'Guia básico para a proteção do jornalista na internet'
+media_order: 'wannacry.jpg,Cópia de Phishing.png,https.png'
 published: true
 metadata:
     author: 'Raphael Hernandes'
@@ -24,17 +24,17 @@ taxonomy:
         - comunicação
 ---
 
-# Guia básico para a proteção do jornalista na Internet
+# Guia básico para a proteção do jornalista na internet
 
 [TOC]
 
 Por **Raphael Hernandes** | [@hernandesraph](https://twitter.com/hernandesraph)
 
-A gente sabe que jornalista procura fugir das exatas e do que é muito complexo tecnicamente. Não dá tempo. Mas a gente também sabe que é fundamental ao repórter saber proteger a si e a suas fontes online. 
+A gente sabe que jornalista procura fugir do que é muito complexo tecnicamente. Não dá tempo. Mas a gente também sabe que é fundamental ao repórter saber proteger a si e a suas fontes online. 
 
 Por isso, a ideia deste guia é ensinar ao leigo como montar defesas eficientes em meios digitais. Sem paranoia. Para tanto, é importante conhecer alguns conceitos e entender como pensar nesse mundo: o processo é mais importante que as ferramentas (mas, claro, citamos algumas depois).
 
-!!!! Dica: saiba se seus dados pessoais já estiveram envolvidos em algum vazamento em [haveibeenpwned.com](https://haveibeenpwned.com/). Basta inserir seu email e/ou nome de usuário e procurar. No menu do topo, ative a opção "Notify me" para receber alertas caso suas informações estejam em algum _leak_. O site não reúne todos os vazamentos possíveis e imagináveis, mas é um bom começo.
+!!!! Dica: saiba se seus dados pessoais já estiveram envolvidos em algum vazamento em [haveibeenpwned.com](https://haveibeenpwned.com/). Basta inserir seu email e/ou nome de usuário. No menu do topo, ative a opção "Notify me" para receber alertas caso suas informações estejam em algum _leak_. O site não reúne todos os vazamentos existentes, mas é um bom começo.
 
 Comecemos por entender um pouco mais sobre a atuação do nosso protagonista nessa história: o hacker.
 
@@ -44,11 +44,11 @@ Comecemos por entender um pouco mais sobre a atuação do nosso protagonista nes
 
 A pessoa responsável por ataques, no dia a dia, não necessariamente é uma pessoa com conhecimento técnico muito avançado. 
 
-Hoje, é possível comprar ferramentas prontas que podem ser usadas para realizar diferentes tipos de ataques. E nem é necessário procurar muito. Algumas delas são compradas legalmente e estão a uma busca no Google e um cartão de crédito de distância.
+Hoje, é possível comprar ferramentas prontas que podem ser usadas para realizar diferentes tipos de ataques. E nem é necessário procurar muito. Algumas delas são compradas legalmente e estão a uma busca no Google de distância.
 
 Essa popularização faz com que sejam mais comuns ataques menos sofisticados, que poderiam ser facilmente evitados com medidas básicas de segurança. 
 
-Hackers extremamente qualificados existem, inclusive no Brasil. Estes, no entanto, normalmente estão preocupados com coisas maiores --tipo ganhar dinheiro desenvolvendo essas ferramentas que serão exploradas por atacantes com menor conhecimento técnico.
+Hackers extremamente qualificados existem, inclusive no Brasil. Estes, no entanto, normalmente estão preocupados com coisas maiores --tipo ganhar dinheiro desenvolvendo essas ferramentas que serão exploradas por atacantes com menor conhecimento técnico. Ainda assim, em casos mais específicos, é importante se preparar para alguém com maior capacidade para investidas mais complexas (casos que envolvem o governo, pro exemplo).
 
 !!!! No Brasil, os atacantes são muitas vezes criativos e ousados (agem às claras e sem muito medo de serem pegos). Exemplo disso nesta [reportagem da Folha](https://www1.folha.uol.com.br/mercado/2018/03/fraude-em-cartao-oferece-suporte-tecnico.shtml).
 
@@ -58,9 +58,7 @@ Ataques contra jornalistas não são novidades. Os objetivos e os adversários v
 
 Quebra de sigilo telefônico é um velho conhecido, mas casos recentes incluem condução coercitiva de jornalista que teve seus eletrônicos apreendidos, repórteres com WhatsApp hackeado, casos de espionagem em fronteira e roubo de redes sociais por grupos ciberterroristas.
 
-As consequências de um ataque podem incluir a publicação de informações falsas, envio de emails falsos para atacar colegas, acesso a informações sensíveis (fontes, por ex.) e perda de reputação.
-
-Uma boa proteção começa ao entender que o que normalmente é entendido por _hacking_, ou a invasão de um sistema, é apenas um dos possíveis problemas.
+Uma boa proteção começa ao entender que o que popularmente é entendido por _hacking_, ou a invasão de um sistema, é apenas um dos possíveis problemas.
 
 O atacante tem um objetivo a cumprir, e isso não quer dizer que ele precise tomar controle completo de sua vida digital para atingí-lo. Via de regra, o mais simples é melhor. 
 
@@ -70,9 +68,9 @@ Eis alguns exemplos das principais ameaças:
 
 * Hacking
 	* Malwares (vírus e afins)
-	* [Backdoors](https://privacidadeparajornalistas.org/guias/proteja-seu-pc-backdoors) (brechas deixadas propositalmente em sistemas para que informações mesmo criptografadas sejam acessíveis sem a senha, mediante ordem judicial, por ex.
+	* [Backdoors](https://privacidadeparajornalistas.org/guias/proteja-seu-pc-backdoors) (brechas deixadas propositalmente em sistemas para que informações mesmo criptografadas sejam acessíveis sem a senha, mediante ordem judicial, por ex.)
 * Engenharia social
-	* Phishing (envio de emails falsos para roubar informações)
+	* Phishing (envio de mensagens ou emails falsos para roubar informações)
 	* Papagaio de pirata (ficar de olho na tela da vítima, fisicamente)
 * Ataques legais
 	* Quebra de sigilo
@@ -83,9 +81,9 @@ Em um ataque, essas ameaças podem se associar.
 Por mais simples ou óbvio que possam parecer alguns desses, é importante levar tudo isso em consideração ao montar uma defesa. Novamente: o que é mais simples é também mais provável de acontecer.
 
 ![](C%C3%B3pia%20de%20Phishing.png)
-Tentativa de Phishingn simula mensagem de banco para roubar informações da vítima. 
+Tentativa de Phishing simula mensagem de banco para roubar informações da vítima. 
 
-!! O Marco Civil da Internet obriga operadoras de telefonia a armazenar informações de navegação de seus usuários por um ano e esses dados podem ser usados pelo governo em investigações. Com eles, é possível descobrir quem se comunicou com quem, e que horas.
+!! O [Marco Civil da Internet](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm) obriga operadoras de telefonia a armazenar informações de navegação de seus usuários por um ano e esses dados podem ser usados pelo governo em investigações. Com eles, é possível descobrir quem se comunicou com quem, e que horas.
 
 ## Como se defender
 
@@ -95,9 +93,9 @@ Entenda como pensar a defesa e como colocar tudo em prática.
 
 Que fique bem claro: **defesa não é grátis**.
 
-O custo não é necessariamente financeiro. Pode ser a conveniência de digitar uma senha a mais, ou até de deixar de usar um serviço popular por não ser a opção mais segura naquele momento. Isso é igual ao mundo físico: é mais trabalhoso trancar três fechaduras na porta, colocar alarme no carro custa dinheiro e por aí vai.
+O custo não é necessariamente financeiro. Pode ser a conveniência de digitar uma senha a mais, ou até de deixar de usar um serviço popular por não ser a opção mais segura naquele momento. Isso é igual ao mundo físico: é mais trabalhoso trancar três fechaduras na porta de casa, colocar alarme no carro custa dinheiro e por aí vai.
 
-Há uma balança em jogo: se a dificuldade para monitorar pesar menos do que o custo para fazê-lo, você terá problemas. É bom desde já elucidar que não existe método completamente seguro. Se o seu adversário tem recursos, motivação e tempo em abundância (como uma NSA, mas eu duvido muito que seja o caso), fica bem difícil se defender
+!!!! Há uma balança em jogo: se a dificuldade para monitorar pesar menos do que o custo para fazê-lo, você terá problemas. É bom desde já elucidar que não existe método completamente seguro. Se o seu adversário tem recursos, motivação e tempo em abundância (como uma NSA, mas eu duvido muito que seja o caso), fica bem difícil se defender.
 
 ### Data at rest vs data in motion
 
@@ -105,13 +103,15 @@ Há uma balança em jogo: se a dificuldade para monitorar pesar menos do que o c
 
 ### Abordagem do castelo
 
-Um bom sistema de defesa funciona como um castelo medieval. O rei poderia ficar dentro de uma sala fechada, com guardas na porta, cercado por uma parede e um rio cheio de crocodilos. A lógica é: se uma defesa falha, tem a outra. Redundância é chave no mundo digital também (o conceito se chama _defense in depth_). Ou seja, a resposta pra "mas eu já uso antivírus, tenho que ter senha forte também?" é "sim".
+Um bom sistema de defesa funciona como um castelo medieval. O rei poderia ficar dentro de uma sala fechada, com guardas na porta, cercado por uma parede e com um rio cheio de crocodilos do lado de fora. A lógica é: se uma defesa falha, tem a outra. Redundância é chave no mundo digital também (o conceito se chama _defense in depth_). Ou seja, a resposta pra "mas eu já uso antivírus, tenho que ter senha forte também?" é "sim".
 
 ### Análise de ameaças
 
-Para não cair na paranoia, é bom fazer uma análise de ameaças caso a caso, a cada reportagem. Também é bom conhecer as ferramentas que estão sendo usadas para não cometer deslizes ao achar que está mais seguro do que realmente está.
+Para não cair na paranoia, é bom fazer uma análise de ameaças caso a caso, a cada reportagem. Não existe método universal.
 
-A segurança pode usar algumas ferramentas especiais, mas a boa defesa não vem dos softwares. Vem de pensar e analisar o processo. Um bom plano deve diminuir as chances do adversário e minimizar os efeitos caso ele tenha sucesso. Não existe método universal, por isso é importante pensar caso a caso.
+Também é bom conhecer as limitações das ferramentas que está usando para não cometer deslizes ao se iludir pensando estar mais seguro do que realmente está.
+
+A segurança pode usar algumas ferramentas especiais, mas a boa defesa não vem dos softwares. Vem de pensar e analisar o processo. Um bom plano deve diminuir as chances do adversário e minimizar os efeitos caso ele tenha sucesso. 
 
 Pergunte-se:
 
@@ -137,7 +137,7 @@ O [WannaCry](https://www1.folha.uol.com.br/mundo/2017/05/1883408-mega-ciberataqu
 
 * Vá além da senha e ative a **autenticação de dois fatores (2FA)** --aquele negócio que nem os bancos têm, no qual além de digitar a senha, você tem que inserir um código presente no celular. [Este site](http://turnon2fa.com) ensina a ativar a verificação de duas etapas em todos os serviços mais populares.  Sempre que possível, evite usar SMS como método de validação, prefira apps como o Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/google-authenticator/id388497605)). 
 
-* Tenha **bom senso** e trate sua segurança virtual como trata a do mundo físico. Não entre em links estranhos assim como não entraria num beco desconhecido. Cuidado com dispositivos USBs estranhos (não use um pen drive cuja procedência desconhece).
+* Tenha **bom senso** e trate sua segurança virtual como trata a do mundo físico. Não entre em links estranhos assim como não entraria num beco desconhecido. Cuidado com dispositivos USBs estranhos (não use um pen drive cuja procedência desconhece). Tape a webcam.
 
 * Seus **dados pessoais** podem ser uma arma nas mãos de atacantes (e golpistas). Lembra daquela conta antiga do MySpace? Pode ser a hora de apagar.
 
@@ -147,9 +147,11 @@ O [WannaCry](https://www1.folha.uol.com.br/mundo/2017/05/1883408-mega-ciberataqu
 
 * Não digite senhas e informações sensíveis em sites que não têm **HTTPS** (aquele cadeadinho ao lado do endereço do site). 
 
-* Cuidado com os **metadados**, informações que ficam escondidas nos arquivos e trazem dados como o local onde uma foto foi tirada ou quem criou um documento de Word. Eles podem, por exemplo, entregar a localização de uma fonte que esteja escondida. Existem [várias formas de excluir metadados](https://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/) de um arquivo. O mais seguro, muitas vezes, pode ser tirar prints das fotos ou documentos que quer publicar e usar essas imagens em vez do arquivo original.
+![](https.png)
 
-* Mantenha o HD do computador **criptografado**. Dessa forma, se alguém tiver acesso ao seu PC, não conseguirá extrair os arquivos facilmente. Há opções para isso no [Windows](https://privacidadeparajornalistas.org/guias/criptografe-seu-hd-bitlocker), [Mac](https://support.apple.com/pt-br/HT204837) e [Linux](https://averagelinuxuser.com/encrypt-hard-drive-in-linux/). O mesmo é possível em celulares iOS e Android, nas configurações.
+* Cuidado com os **metadados**, informações que ficam escondidas nos arquivos e trazem dados como o local onde uma foto foi tirada ou quem criou um documento de Word. Eles podem, por exemplo, [entregar a localização de uma fonte](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) que esteja escondida. Existem [várias formas de excluir metadados](https://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/) de um arquivo. O mais seguro, muitas vezes, pode ser tirar prints das fotos ou documentos que quer publicar e usar essas imagens em vez do arquivo original.
+
+* Mantenha o HD do computador **criptografado**. Dessa forma, se alguém tiver acesso ao seu equipamento, não conseguirá extrair os arquivos facilmente. Há opções para isso no [Windows](https://privacidadeparajornalistas.org/guias/criptografe-seu-hd-bitlocker), [Mac](https://support.apple.com/pt-br/HT204837) e [Linux](https://averagelinuxuser.com/encrypt-hard-drive-in-linux/). O mesmo é possível em celulares iOS e Android, nas configurações.
 
 * **Apagar um arquivo** não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás. Outra opção é o [Eraser](https://eraser.heidi.ie/).
 
@@ -157,21 +159,23 @@ O [WannaCry](https://www1.folha.uol.com.br/mundo/2017/05/1883408-mega-ciberataqu
 
 * Uso de serviços de **VPN** (como o super fácil de usar [NordVPN](https://nordvpn.com/pt-br/)) ajuda trazer mais segurança ao se conectar wifi compartilhados (no metrô, em hotéis...). Usar VPNs não confiáveis pode ser um problemão, então opções de procedência duvidosa são **extremamente** perigosas.
 
-* Sempre que possível --e que julgar necessário-- **compartimentalize** seu trabalho. Isso serve tanto para pessoas que estão ajudando na apuração (informar fontes e compartilhar arquivos sigilosos somente se necessário) quanto no gerenciamento do que você tem (lembra que temos que cuidar também dos dados armazenados? Às vezes pode ser uma boa salvar parte dos arquivos num lugar, parte em outro, parte num terceiro canto... Caso um deles seja comprometido, parte da informação estará segura).
+* Sempre que possível --e que julgar necessário-- **compartimentalize** seu trabalho. Isso serve tanto para pessoas que estão ajudando na apuração (informar fontes e compartilhar arquivos sigilosos somente se necessário) quanto no gerenciamento do conteúdo que você tem: lembra que temos que cuidar também dos dados armazenados? Às vezes pode ser uma boa salvar parte dos arquivos num lugar, parte em outro, parte num terceiro canto... Caso um deles seja comprometido, parte da informação estará segura.
 
 #### Casos mais complexos
 
 Lidar com casos mais complexos pode exigir algumas medidas extremas.
 
-* Por mais que seus dados fiquem criptografados em **serviços de nuvem**, o provedor pode ser capaz de determinar qual tipo de arquivo está ali e repassar essa informação para autoridades. Se quer mais segurança nisso, prefira serviços que adotam protocolos de **conhecimento zero**, como o [Sync](https://privacidadeparajornalistas.org/guias/armazene-arquivos-forma-privada-nuvem).
+* Por mais que seus dados fiquem criptografados em **serviços de nuvem**, o provedor pode ser capaz de determinar qual tipo de arquivo está ali e repassar essa informação para autoridades. Se quer mais segurança nisso, prefira serviços que adotam protocolos de **conhecimento-zero**, como o [Sync](https://privacidadeparajornalistas.org/guias/armazene-arquivos-forma-privada-nuvem).
 
-* **Tor**: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. É possível usar essa comunicação anônima e segura para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
+* **Tor**: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. Essa comunicação anônima e segura serve para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
 
 * Se o foco é **anonimato**, troque o Windows pelo [Tails](https://tails.boum.org/index.pt.html), uma versão do Linux que já vem com Tor configurado por padrão. Se o foco é **segurança**, o [Qubes](https://www.qubes-os.org/) é uma boa opção.
 
+!!!! Ao usar o Tor, não faça login em nenhum serviço. Se o foco é o anonimato, se identificar em algum sistema estraga tudo.
+
 * Você não precisa excluir seu sistema para usar o Tails, o Qubes ou qualquer outro. Você pode fazê-lo por meio de uma [**máquina virtual**](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/). É como se tivesse um computador dentro do seu computador. Aí dá pra clicar tranquilamente naquele link suspeito porque, se der problema, afetará apenas a máquina virtual --você exclui ela, cria outra e o seu computador fica intacto. 
 
-* Aí precisa da ajuda da TI: [Globaleaks](https://privacidadeparajornalistas.org/guias/troca-arquivos-mensagens-globaleaks) e [Securedrop](https://securedrop.org/) são boas opções para **receber arquivos anônimos** de _whistleblowers_.
+* Aqui precisa da ajuda da TI: [Globaleaks](https://privacidadeparajornalistas.org/guias/troca-arquivos-mensagens-globaleaks) e [Securedrop](https://securedrop.org/) são boas opções para **receber arquivos anônimos** de _whistleblowers_.
 
 ## Comunicação segura
 
@@ -179,7 +183,7 @@ Lidar com casos mais complexos pode exigir algumas medidas extremas.
 
 * WhatsApp e Telegram oferecem criptografia de ponta a ponta, mas é possível saber quem falou com quem e quando --o que fica escondido é apenas o conteúdo das mensagens em trânsito. Uma pessoa com acesso à conta ou ao telefone pode ver as mensagens.
 
-* O Threema (que custa aproximadamente R$ 10 para [Android](https://play.google.com/store/apps/details?id=ch.threema.app&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/threema/id578665578)) é uma opção mais segura por não usar o número de telefone como identificador para garantir acesso à conta. Nesse caso, uma pessoa que clonasse seu número não ganharia acesso ao app também. Também não oculta metadados (quem falou com quem e quando).
+* O Threema (que custa aproximadamente R$ 10 para [Android](https://play.google.com/store/apps/details?id=ch.threema.app&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/threema/id578665578)) é uma opção mais segura por não usar o número de telefone como identificador para garantir acesso à conta. Nesse caso, uma pessoa que clonasse seu número não ganharia acesso ao app também. Cuidado: também não oculta metadados (quem falou com quem e quando).
 
 * [Ricochet](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) (conversas individuais), [Semaphor](https://privacidadeparajornalistas.org/guias/conversas-seguras-equipe) (conversas em grupo) e [Onionshare](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare) (compartilhamento de arquivos) são mais complexos de usar, mas garantem segurança maior por funcionar por meio do Tor. 
 
