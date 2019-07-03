@@ -1,7 +1,7 @@
 ---
 title: 'Guia básico para a proteção do jornalista na Internet'
 media_order: 'wannacry.jpg,Cópia de Phishing.png'
-published: false
+published: true
 metadata:
     author: 'Raphael Hernandes'
     description: 'Guia para que jornalistas entendam conceitos básicos e tenham uma noção de ameaças que eles e suas fontes enfrentam em ambientes digitais'
