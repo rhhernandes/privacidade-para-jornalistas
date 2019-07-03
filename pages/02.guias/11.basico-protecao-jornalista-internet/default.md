@@ -1,5 +1,6 @@
 ---
 title: 'Guia básico para a proteção do jornalista na Internet'
+media_order: wannacry.jpg
 published: false
 metadata:
     author: 'Raphael Hernandes'
@@ -54,8 +55,6 @@ Hackers extremamente qualificados existem, inclusive no Brasil. Estes, no entant
 Ataques contra jornalistas não são novidades. Os objetivos e os adversários variam. Casos clássicos focam em quebra de sigilo de fonte, ataques à reputação do repórter/veículo e para espalhar desinformação.
 
 Quebra de sigilo telefônico é um velho conhecido, mas casos recentes incluem condução coercitiva de jornalista que teve seus eletrônicos apreendidos, repórteres com WhatsApp hackeado, casos de espionagem em fronteira e roubo de redes sociais por grupos ciberterroristas.
-
-(imagens roubo)
 
 As consequências de um ataque podem incluir a publicação de informações falsas, envio de emails falsos para atacar colegas, acesso a informações sensíveis (fontes, por ex.) e perda de reputação.
 
@@ -120,7 +119,8 @@ Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário.
 
 * Mantenha tudo atualizado. Alguns dos principais problemas recentes seriam evitados com atualizações de softwares e sistemas.
 
-(imagem wannacry)
+![](wannacry.jpg) 
+O [WannaCry](https://www1.folha.uol.com.br/mundo/2017/05/1883408-mega-ciberataque-derruba-sistemas-de-comunicacao-ao-redor-do-mundo.shtml) só foi possível graças a sistemas desatualizados
 
 * Cuide bem das suas **senhas**. **Não repita** a mesma senha em lugares diferentes e as troque com frequência. Uma boa senha é uma combinação de caracteres aleatórios.
 	* Para gerir as senhas (e criar boas senhas novas) é recomendável o uso de um gerenciador de senhas. Algumas opções:
