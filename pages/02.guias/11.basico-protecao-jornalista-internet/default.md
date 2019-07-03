@@ -8,13 +8,13 @@ metadata:
     'og:title': 'Guia básico para a proteção do jornalista na Internet | Privacidade para Jornalistas'
     'og:type': article
     'og:description': 'Guia para que jornalistas entendam conceitos básicos e tenham uma noção de ameaças que eles e suas fontes enfrentam em ambientes digitais'
-    'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/sending-im-1.png'
+    'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/11.basico-protecao-jornalista-internet/wannacry.jpg'
     'twitter:card': summary_large_image
     'twitter:site': '@privacidadeJorn'
     'twitter:creator': '@hernandesraph'
     'twitter:title': 'Guia básico para a proteção do jornalista na Internet | Privacidade para Jornalistas'
     'twitter:description': 'Guia para que jornalistas entendam conceitos básicos e tenham uma noção de ameaças que eles e suas fontes enfrentam em ambientes digitais'
-    'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.conversas-seguras-com-ricochet/sending-im-1.png'
+    'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/11.basico-protecao-jornalista-internet/wannacry.jpg'
 taxonomy:
     category:
         - 'Privacidade para Jornalistas'
