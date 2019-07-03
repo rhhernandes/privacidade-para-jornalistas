@@ -69,7 +69,7 @@ Eis alguns exemplos das principais ameaças:
 
 * Hacking
 	* Malwares (vírus e afins)
-	* Backdoors (brechas deixadas propositalmente em sistemas para que informações mesmo criptografadas sejam acessíveis sem a senha, mediante ordem judicial, por ex.
+	* [Backdoors](https://privacidadeparajornalistas.org/guias/proteja-seu-pc-backdoors) (brechas deixadas propositalmente em sistemas para que informações mesmo criptografadas sejam acessíveis sem a senha, mediante ordem judicial, por ex.
 * Engenharia social
 	* Phishing (envio de emails falsos para roubar informações)
 	* Papagaio de pirata (ficar de olho na tela da vítima, fisicamente)
@@ -91,6 +91,8 @@ Que fique bem claro: **defesa custa**. Não é grátis.
 
 O custo não é necessariamente financeiro. Pode ser a conveniência de digitar uma senha a mais, ou até de deixar de usar um serviço popular por não ser a opção mais segura naquele momento. Isso é igual ao mundo físico: é mais trabalhoso trancar três fechaduras na porta, colocar alarme no carro custa dinheiro e por aí vai.
 
+Há uma balança em jogo: se a dificuldade para monitorar pesar menos do que o custo para fazê-lo, você terá problemas. É bom desde já elucidar que não existe método completamente seguro. Se o seu adversário tem recursos, motivação e tempo em abundância (como uma NSA, mas eu duvido muito que seja o caso), fica bem difícil se defender
+
 ### Data at rest vs data in motion
 
 É importante se lembrar que nem todo dado está em trânsito. Tão importante quanto proteger a mensagem que é enviada do ponto A para o ponto B, é importante proteger o local onde ela fica armazenada depois --às vezes esquecemos do segundo. 
@@ -102,6 +104,8 @@ Um bom sistema de defesa funciona como um castelo medieval. O rei poderia ficar 
 ### Análise de ameaças
 
 Para não cair na paranoia, é bom fazer uma análise de ameaças caso a caso, a cada reportagem. Também é bom conhecer as ferramentas que estão sendo usadas para não cometer deslizes ao achar que está mais seguro do que realmente está.
+
+A segurança pode usar algumas ferramentas especiais, mas a boa defesa não vem dos softwares. Vem de pensar e analisar o processo. Um bom plano deve diminuir as chances do adversário e minimizar os efeitos caso ele tenha sucesso. Não existe método universal, por isso é importante pensar caso a caso.
 
 Pergunte-se:
 
@@ -124,41 +128,41 @@ Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário.
 		* [1Password](https://1password.com/pt/) 
 		* [Keepass](https://keepass.info/)
 
-* Vá além da senha e ative a autenticação de dois fatores (2FA) --aquele negócio que nem os bancos têm, no qual além de digitar a senha, você tem que inserir um código presente no celular. Sempre que possível, evite usar SMS como método de validação. [Este site](http://turnon2fa.com) ensina a ativar a verificação de duas etapas em todos os serviços mais populares. 
+* Vá além da senha e ative a **autenticação de dois fatores (2FA)** --aquele negócio que nem os bancos têm, no qual além de digitar a senha, você tem que inserir um código presente no celular. [Este site](http://turnon2fa.com) ensina a ativar a verificação de duas etapas em todos os serviços mais populares.  Sempre que possível, evite usar SMS como método de validação, prefira apps como o Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/google-authenticator/id388497605)). 
 
-* Tenha bom senso e trate sua segurança virtual como trata a do mundo físico. Não entre em links estranhos assim como não entraria num beco desconhecido. Cuidado com dispositivos USBs estranhos (não use um pen drive cuja procedência desconhece).
+* Tenha **bom senso** e trate sua segurança virtual como trata a do mundo físico. Não entre em links estranhos assim como não entraria num beco desconhecido. Cuidado com dispositivos USBs estranhos (não use um pen drive cuja procedência desconhece).
 
-* Seus dados pessoais podem ser uma arma nas mãos de atacantes (e golpistas). Lembra daquela conta antiga do MySpace? Pode ser a hora de apagar.
+* Seus **dados pessoais** podem ser uma arma nas mãos de atacantes (e golpistas). Lembra daquela conta antiga do MySpace? Pode ser a hora de apagar.
 
-* Celulares são um desastre. Coletam muitas informações o tempo todo, e esses dados vão parar em muitos lugares diferentes --afinal, são muitos aplicativos capturando dados simultaneamente. Se vai discretamente encontrar uma fonte que não pode ser identificada, talvez seja melhor deixar o telefone em casa.
+* **Celulares são um desastre**. Coletam muitas informações o tempo todo, e esses dados vão parar em muitos lugares diferentes --afinal, são muitos aplicativos capturando dados simultaneamente. Se vai discretamente encontrar uma fonte que não pode ser identificada, talvez seja melhor deixar o telefone em casa.
 
-* Use antivírus, inclusive no celular. Prefira marcas conhecidas. Muitas têm promoções se comprar para computador e celular ao mesmo tempo (sim, tem que pagar).
+* Use **antivírus, inclusive no celular**. Prefira marcas conhecidas. Muitas têm promoções se comprar para computador e celular ao mesmo tempo (sim, tem que pagar).
 
-* Não digite senhas e informações sensíveis em sites que não têm HTTPS (aquele cadeadinho ao lado do endereço do site). 
+* Não digite senhas e informações sensíveis em sites que não têm **HTTPS** (aquele cadeadinho ao lado do endereço do site). 
 
-* Cuidado com os metadados, informações que ficam escondidas nos arquivos e trazem dados como o local onde uma foto foi tirada ou quem criou um documento de Word. Eles podem, por exemplo, entregar a localização de uma fonte que esteja escondida. Existem [várias formas de excluir metadados](https://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/) de um arquivo. O mais seguro, muitas vezes, pode ser tirar prints das fotos ou documentos que quer publicar e usar essas imagens em vez do arquivo original.
+* Cuidado com os **metadados**, informações que ficam escondidas nos arquivos e trazem dados como o local onde uma foto foi tirada ou quem criou um documento de Word. Eles podem, por exemplo, entregar a localização de uma fonte que esteja escondida. Existem [várias formas de excluir metadados](https://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/) de um arquivo. O mais seguro, muitas vezes, pode ser tirar prints das fotos ou documentos que quer publicar e usar essas imagens em vez do arquivo original.
 
-* Mantenha o HD do computador criptografado. Dessa forma, se alguém tiver acesso ao seu PC, não conseguirá extrair os arquivos facilmente. Há opções para isso no [Windows](https://privacidadeparajornalistas.org/guias/criptografe-seu-hd-bitlocker), [Mac](https://support.apple.com/pt-br/HT204837) e [Linux](https://averagelinuxuser.com/encrypt-hard-drive-in-linux/). O mesmo é possível em celulares iOS e Android, nas configurações.
+* Mantenha o HD do computador **criptografado**. Dessa forma, se alguém tiver acesso ao seu PC, não conseguirá extrair os arquivos facilmente. Há opções para isso no [Windows](https://privacidadeparajornalistas.org/guias/criptografe-seu-hd-bitlocker), [Mac](https://support.apple.com/pt-br/HT204837) e [Linux](https://averagelinuxuser.com/encrypt-hard-drive-in-linux/). O mesmo é possível em celulares iOS e Android, nas configurações.
 
-* Apagar um arquivo não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás.
+* **Apagar um arquivo** não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás.
 
-* Uso de serviços de VPN (como o super fácil de usar [NordVPN](https://nordvpn.com/pt-br/)) ajuda trazer mais segurança ao se conectar wifi compartilhados (no metrô, em hotéis...). Usar VPNs não confiáveis pode ser um problemão, então opções de procedência duvidosa são **extremamente** perigosas.
+* Uso de serviços de **VPN** (como o super fácil de usar [NordVPN](https://nordvpn.com/pt-br/)) ajuda trazer mais segurança ao se conectar wifi compartilhados (no metrô, em hotéis...). Usar VPNs não confiáveis pode ser um problemão, então opções de procedência duvidosa são **extremamente** perigosas.
 
-* Sempre que possível --e que julgar necessário-- compartimentalize seu trabalho. Isso serve tanto para pessoas que estão ajudando na apuração (informar fontes e compartilhar arquivos sigilosos somente se necessário) quanto no gerenciamento do que você tem (lembra que temos que cuidar também dos dados armazenados? Às vezes pode ser uma boa salvar parte dos arquivos num lugar, parte em outro, parte num terceiro canto... Caso um deles seja comprometido, parte da informação estará segura).
+* Sempre que possível --e que julgar necessário-- **compartimentalize** seu trabalho. Isso serve tanto para pessoas que estão ajudando na apuração (informar fontes e compartilhar arquivos sigilosos somente se necessário) quanto no gerenciamento do que você tem (lembra que temos que cuidar também dos dados armazenados? Às vezes pode ser uma boa salvar parte dos arquivos num lugar, parte em outro, parte num terceiro canto... Caso um deles seja comprometido, parte da informação estará segura).
 
 #### Casos mais complexos
 
 Lidar com casos mais complexos pode exigir algumas medidas extremas.
 
-* Por mais que seus dados fiquem criptografados em serviços de nuvem, o provedor pode ser capaz de determinar qual tipo de arquivo está ali e repassar essa informação para autoridades. Se quer mais segurança nisso, prefira serviços que adotam protocolos de conhecimento-zero, como o [Sync](https://privacidadeparajornalistas.org/guias/armazene-arquivos-forma-privada-nuvem).
+* Por mais que seus dados fiquem criptografados em **serviços de nuvem**, o provedor pode ser capaz de determinar qual tipo de arquivo está ali e repassar essa informação para autoridades. Se quer mais segurança nisso, prefira serviços que adotam protocolos de **conhecimento zero**, como o [Sync](https://privacidadeparajornalistas.org/guias/armazene-arquivos-forma-privada-nuvem).
 
-* Tor: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. É possível usar essa comunicação anônima e segura para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
+* **Tor**: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. É possível usar essa comunicação anônima e segura para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
 
-* Se o foco é anonimato, troque o Windows pelo [Tails](https://tails.boum.org/index.pt.html), uma versão do Linux que já vem com Tor configurado por padrão. Se o foco é segurança, o [Qubes](https://www.qubes-os.org/) é uma boa opção.
+* Se o foco é **anonimato**, troque o Windows pelo [Tails](https://tails.boum.org/index.pt.html), uma versão do Linux que já vem com Tor configurado por padrão. Se o foco é **segurança**, o [Qubes](https://www.qubes-os.org/) é uma boa opção.
 
-* Você não precisa excluir seu sistema para usar o Tails, o Qubes ou qualquer outro. Você pode fazê-lo por meio de uma [máquina virtual](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/). É como se tivesse um computador dentro do seu computador. Aí dá pra clicar tranquilamente naquele link suspeito porque, se der problema, afetará apenas a máquina virtual --você exclui ela, cria outra e o seu computador fica intacto. 
+* Você não precisa excluir seu sistema para usar o Tails, o Qubes ou qualquer outro. Você pode fazê-lo por meio de uma [**máquina virtual**](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/). É como se tivesse um computador dentro do seu computador. Aí dá pra clicar tranquilamente naquele link suspeito porque, se der problema, afetará apenas a máquina virtual --você exclui ela, cria outra e o seu computador fica intacto. 
 
-* Aí precisa da ajuda da TI: [Globaleaks](https://privacidadeparajornalistas.org/guias/troca-arquivos-mensagens-globaleaks) e [Securedrop](https://securedrop.org/) são boas opções para receber arquivos anônimos de _whistleblowers_.
+* Aí precisa da ajuda da TI: [Globaleaks](https://privacidadeparajornalistas.org/guias/troca-arquivos-mensagens-globaleaks) e [Securedrop](https://securedrop.org/) são boas opções para **receber arquivos anônimos** de _whistleblowers_.
 
 ## Comunicação segura
 
@@ -176,3 +180,22 @@ Lidar com casos mais complexos pode exigir algumas medidas extremas.
 
 É importante ter um plano de defesa. Um bom plano envolve uma série de receitas simples para resolver cada problema no processo. Ao pensar em como se proteger para uma reportagem, leve em consideração as seguintes perguntas:
 
+* Como as partes vão se comunicar?
+* Quem terá acesso a essa informação? Como?
+* Quais ações são cruciais para que isso fique seguro?
+* Será necessário se encontrar pessoalmente? Como vocês vão organizar isso? Onde vão se encontrar?
+* Onde a informação confidencial está armazenada fisicamente? Quantas cópias tem?
+* Quem tem acesso físico ao equipamento? Considere escritórios, servidores, cartões de memória, etc.
+* Qual a política de arquivamento e para deletar esses dados? Não cria backup automático em algum lugar? É apagado de forma segura?
+* Qual parte da informação pode ser divulgada na reportagem e qual parte deve ficar confidencial?
+* E os telefones? O registro das localizações pelo GPS é um problema?
+* Você configurou o seu equipamento para ficar da forma mais segura possível? Por exemplo, lembrou de desligar o GPS e o backup do chat?
+* Quais questões legais também podem se tornar problemas de segurança nesse caso?
+* Consultou um advogado? Precisa?
+* O plano tem algum problema ético? Todas as partes estão cientes dos riscos?
+* Se houver uma grande falha de segurança, você teria como lidar com as consequências?
+* Quem é o grande responsável para que o plano dê certo?
+* Como esse plano será repassado para todas as partes?
+* Ele é apropriado? Todos têm os conhecimentos e habilidades necessárias para ele funcionar?
+* Você vai ter que treinar os interessados ou oferecer exercícios de prática?
+* Onde que alguém pode cometer um erro? O que acontece se ele for cometido?
