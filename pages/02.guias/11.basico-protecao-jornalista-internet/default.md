@@ -1,6 +1,6 @@
 ---
 title: 'Guia básico para a proteção do jornalista na Internet'
-media_order: wannacry.jpg
+media_order: 'wannacry.jpg,Cópia de Phishing.png'
 published: false
 metadata:
     author: 'Raphael Hernandes'
@@ -79,6 +79,9 @@ Eis alguns exemplos das principais ameaças:
 Em um ataque, essas ameaças podem se associar.
 
 Por mais simples ou óbvio que possam parecer alguns desses, é importante levar tudo isso em consideração ao montar uma defesa. Novamente: o que é mais simples é também mais provável de acontecer.
+
+![](C%C3%B3pia%20de%20Phishing.png)
+Tentativa de Phishingn simula mensagem de banco para roubar informações da vítima. 
 
 !! O Marco Civil da Internet obriga operadoras de telefonia a armazenar informações de navegação de seus usuários por um ano e esses dados podem ser usados pelo governo em investigações. Com eles, é possível descobrir quem se comunicou com quem, e que horas.
 
