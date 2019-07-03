@@ -30,6 +30,8 @@ Sabemos que a  proteção das fontes é importante. Portanto, compilamos alguns 
 
 Recomendamos ler nosso guia de [análise de ameaças](/ameacas) antes, para poder escolher as ferramentas apropriadas para a sua necessidade.
 
+Um bom começo pode ser também ver o [guia básico para a proteção de jornalistas na internet](basico-protecao-jornalista-internet).
+
 !! Está página está em desenvolvimento. Continue acessando para ver os novos guias que serão adicionados
 
 ! Tem alguma sugestão de conteúdo que deveríamos adicionar aqui? [**Entre em contato**](mailto:contato@privacidadeparajornalistas.org) 
@@ -61,7 +63,7 @@ Recomendamos ler nosso guia de [análise de ameaças](/ameacas) antes, para pode
 
 | Nome | Deixa metadados | Descrição |
 | ---- | --------------- | ----------- |
-| [**Troca segura de arquivos**](troca-segura-de-arquivos-com-OnionShare) com o OnionShare | Não | Este guia passo a passo te ensina a instalar o Onionshare, que possibilita o compartilhamento de arquivos sem deixar metadados |
+| [**Troca segura de arquivos**](troca-segura-de-arquivos-com-onionshare) com o OnionShare | Não | Este guia passo a passo te ensina a instalar o Onionshare, que possibilita o compartilhamento de arquivos sem deixar metadados |
 | [**Troca de arquivos e de mensagens**](troca-arquivos-mensagens-globaleaks) com o GlobaLeaks | Não | Uma solução robusta para o compartilhamento de arquivos e de mensagens entre fontes e jornalistas sem deixar metadados |
 
 
