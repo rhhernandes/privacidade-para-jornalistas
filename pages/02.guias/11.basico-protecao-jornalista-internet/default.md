@@ -142,6 +142,18 @@ Leve sempre em consideração a pessoa ou entidade que pode ser seu adversário.
 
 * Apagar um arquivo não significa que ele desapareceu. Há formas de recuperá-lo. Se precisar apagar um arquivo de modo a dificultar a recuperação, use programas como [Recuva](https://www.ccleaner.com/recuva/features/securely-delete-files-you-want-to-erase-forever) --que também serve para recuperar arquivos deletados, aliás.
 
-* 
+* Uso de serviços de VPN (como o super fácil de usar [NordVPN](https://nordvpn.com/pt-br/)) ajuda trazer mais segurança ao se conectar wifi compartilhados (no metrô, em hotéis...). Usar VPNs não confiáveis pode ser um problemão, então opções de procedência duvidosa são **extremamente** perigosas.
+
+* Sempre que possível --e que julgar necessário-- compartimentalize seu trabalho. Isso serve tanto para pessoas que estão ajudando na apuração (informar fontes e compartilhar arquivos sigilosos somente se necessário) quanto no gerenciamento do que você tem (lembra que temos que cuidar também dos dados armazenados? Às vezes pode ser uma boa salvar parte dos arquivos num lugar, parte em outro, parte num terceiro canto... Caso um deles seja comprometido, parte da informação estará segura).
+
+#### Casos mais complexos
+
+Lidar com casos mais complexos pode exigir algumas medidas extremas.
+
+* Por mais que seus dados fiquem criptografados em serviços de nuvem, o provedor pode ser capaz de determinar qual tipo de arquivo está ali e repassar essa informação para autoridades. Se quer mais segurança nisso, prefira serviços que adotam protocolos de conhecimento-zero, como o [Sync](https://privacidadeparajornalistas.org/guias/armazene-arquivos-forma-privada-nuvem).
+
+* Tor: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. É possível usar essa comunicação anônima e segura para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
+
+*  
 
 ## Comunicação segura
