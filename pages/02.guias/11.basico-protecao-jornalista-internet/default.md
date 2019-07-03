@@ -38,6 +38,8 @@ Por isso, a ideia deste guia é ensinar ao leigo como montar defesas eficientes 
 
 Comecemos por entender um pouco mais sobre a atuação do nosso protagonista nessa história: o hacker.
 
+!!! [Veja aqui vários outros links úteis para proteção online](https://privacidadeparajornalistas.org/links-uteis). Muitos deles ajudaram a embasar este texto.
+
 ## O hacker
 
 A pessoa responsável por ataques, no dia a dia, não necessariamente é uma pessoa com conhecimento técnico muito avançado. 
