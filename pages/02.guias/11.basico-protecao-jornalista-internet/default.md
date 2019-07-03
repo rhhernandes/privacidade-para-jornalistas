@@ -154,6 +154,25 @@ Lidar com casos mais complexos pode exigir algumas medidas extremas.
 
 * Tor: é uma forma de conexão à internet que ajuda a esconder metadados da conexão --fica praticamente impossível determinar quem se comunicou com quem. É possível usar essa comunicação anônima e segura para [navegar](https://securityinabox.org/en/guide/torbrowser/windows/), para [conversar](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) ou para [trocar arquivos](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare).
 
-*  
+* Se o foco é anonimato, troque o Windows pelo [Tails](https://tails.boum.org/index.pt.html), uma versão do Linux que já vem com Tor configurado por padrão. Se o foco é segurança, o [Qubes](https://www.qubes-os.org/) é uma boa opção.
+
+* Você não precisa excluir seu sistema para usar o Tails, o Qubes ou qualquer outro. Você pode fazê-lo por meio de uma [máquina virtual](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/). É como se tivesse um computador dentro do seu computador. Aí dá pra clicar tranquilamente naquele link suspeito porque, se der problema, afetará apenas a máquina virtual --você exclui ela, cria outra e o seu computador fica intacto. 
+
+* Aí precisa da ajuda da TI: [Globaleaks](https://privacidadeparajornalistas.org/guias/troca-arquivos-mensagens-globaleaks) e [Securedrop](https://securedrop.org/) são boas opções para receber arquivos anônimos de _whistleblowers_.
 
 ## Comunicação segura
+
+!!!! São vários os caminhos que um hacker pode usar para atacar (ou outros mensageiros): [entenda quais são eles](https://www1.folha.uol.com.br/tec/2019/06/saiba-proteger-seu-whatsapp-de-hackers-e-entenda-como-o-ataque-acontece.shtml).
+
+* WhatsApp e Telegram oferecem criptografia de ponta a ponta, mas é possível saber quem falou com quem e quando --o que fica escondido é apenas o conteúdo das mensagens em trânsito. Uma pessoa com acesso à conta ou ao telefone pode ver as mensagens.
+
+* O Threema (que custa aproximadamente R$ 10 para [Android](https://play.google.com/store/apps/details?id=ch.threema.app&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/threema/id578665578)) é uma opção mais segura por não usar o número de telefone como identificador para garantir acesso à conta. Nesse caso, uma pessoa que clonasse seu número não ganharia acesso ao app também. Também não oculta metadados (quem falou com quem e quando).
+
+* [Ricochet](https://privacidadeparajornalistas.org/guias/conversas-seguras-com-ricochet) (conversas individuais), [Semaphor](https://privacidadeparajornalistas.org/guias/conversas-seguras-equipe) (conversas em grupo) e [Onionshare](https://privacidadeparajornalistas.org/guias/troca-segura-de-arquivos-com-onionshare) (compartilhamento de arquivos) são mais complexos de usar, mas garantem segurança maior por funcionar por meio do Tor. 
+
+* O [PGP](https://privacidadeparajornalistas.org/guias/criar-chaves-pgp-windows) é uma forma de criptografar emails. 
+
+## Plano de defesa
+
+É importante ter um plano de defesa. Um bom plano envolve uma série de receitas simples para resolver cada problema no processo. Ao pensar em como se proteger para uma reportagem, leve em consideração as seguintes perguntas:
+
