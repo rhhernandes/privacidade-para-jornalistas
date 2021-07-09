@@ -39,4 +39,3 @@ visible: true
 * [Análise de ameaças](/ameacas): Para ajudar a entender seus adversários
 * [Guias práticos](/guias): Para defender os dados dos jornalistas e as informações de suas fontes
 * [Links úteis](/links-uteis): Coleção de dicas de segurança, leis, grupos e associações para defender a privacidade
-* [Privacy for Journalists](https://privacyforjournalists.org.au/): a versão original do site, em inglês 🇦🇺
