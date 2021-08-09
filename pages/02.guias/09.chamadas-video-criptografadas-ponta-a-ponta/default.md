@@ -9,7 +9,7 @@ metadata:
     'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/08.chamadas-video-criptografadas-ponta-a-ponta/wire-partner-2.png'
     'twitter:card': summary_large_image
     'twitter:site': '@privacidadeJorn'
-    'twitter:creator': '@rhhernandes'
+    'twitter:creator': '@hernandesraph'
     'twitter:title': 'Chamadas de vídeo criptografadas de ponta a ponta | Privacidade para Jornalistas'
     'twitter:description': 'Este guia é sobre como fazer chamadas de vídeo criptografadas de ponta a ponta com o Wire'
     'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/08.chamadas-video-criptografadas-ponta-a-ponta/wire-partner-2.png'
