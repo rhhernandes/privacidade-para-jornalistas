@@ -17,16 +17,16 @@ taxonomy:
     tag:
         - doxxing
         - 'assédio online'
-media_order: luca-bravo-9l_326FISzk-unsplash.jpg
+media_order: neonbrand-mgYAR7BzBk4-unsplash.jpg
 ---
 
-![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024)
-
+![](neonbrand-mgYAR7BzBk4-unsplash.jpg?lightbox=1024)
+  
 # Higiene digital e limpeza de rastros online: guia prático
 
 [TOC]
 
-! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o [guia de recuperação de contas](/).
+! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o [guia de recuperação de contas](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico).
 
 ## Introdução
 
@@ -238,5 +238,4 @@ Pen Foundation: [Online harassment field manual](https://onlineharassmentfieldma
 GIJN: [Digital Security](https://gijn.org/digital-security/)
 Centre for Law and Democracy: [Digital Security Guide for Journalists](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
 
-_Photo by [Luca Bravo](https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-safety?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
-  
+_Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
