@@ -95,6 +95,7 @@ Só instalar o gerenciador não adianta. É necessário entrar em cada serviço/
 
 [/ui-accordion-item]
 [/ui-accordion]
+
 ## Passo 2: proteja-se de ataques contra seu chip de celular
 
 _Tempo estimado para completar esta etapa: de 5 a 10 minutos_
