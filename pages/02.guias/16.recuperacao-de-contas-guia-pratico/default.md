@@ -72,8 +72,8 @@ Agora, você já recuperou os acessos às contas e trocou a senha, mas talvez o 
 
 * Google: a "[Verificação de segurança](https://myaccount.google.com/security-checkup/)" permite remover as sessões ativas em "Seus dispositivos" e revisar as "Atividades de segurança recentes" para checar inconsistências;
 * Yahoo: veja a "[Atividade da Conta](https://login.yahoo.com/account/activity)" e clique em sair de todas as outras sessões;
-* Twitter: clique no botão "sair de todas as outras sessões" em "Sessões Ativas";
-* Instagram: abra cada sessão e clique em "log out" em "Atividade de login";
+* Twitter: clique no botão "sair de todas as outras sessões" em "[Sessões Ativas](https://twitter.com/settings/sessions)";
+* Instagram: abra cada sessão e clique em "log out" em "[Atividade de login](https://www.instagram.com/session/login_activity/)";
 * Facebook: em "Onde você se conectou", dentro de "[Segurança e Login](https://www.facebook.com/settings?tab=security)", clique em "ver mais" e "sair de todas as sessões".
 * LinkedIn: cheque "[Suas sessões ativas](https://www.linkedin.com/psettings/sessions)" e clique em "Sair de todas as sessões".
 * Apple: remova todos os dispositivos desconhecidos, saiba como no [guia](https://support.apple.com/pt-br/HT205064).
