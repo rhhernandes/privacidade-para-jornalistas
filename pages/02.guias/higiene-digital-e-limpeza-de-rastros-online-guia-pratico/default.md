@@ -53,7 +53,7 @@ Algumas opções:
 * Bitwarden (possui versão gratuita)
 * Kaspersky Password Manager
 
-! **Extra:** A **Freedom of the Press Foundation** tem um guia ótimo sobre [como escolher uma dessas ferramentas](https://freedom.press/training/blog/choosing-password-manager/).
+!!! **Extra:** A Freedom of the Press Foundation tem um guia ótimo sobre [como escolher uma dessas ferramentas](https://freedom.press/training/blog/choosing-password-manager/).
 
 #### Onde trocar senhas (prioridades)
 
