@@ -17,10 +17,10 @@ taxonomy:
     tag:
         - doxxing
         - 'assédio online'
-media_order: luca-bravo-9l_326FISzk-unsplash.jpg
+media_order: 'luca-bravo-9l_326FISzk-unsplash.jpg,CROPluca-bravo-9l_326FISzk-unsplash.jpg'
 ---
 
-![](luca-bravo-9l_326FISzk-unsplash.jpg)
+![](CROPluca-bravo-9l_326FISzk-unsplash.jpg)
 
 # Higiene digital e limpeza de rastros online: guia prático
 
@@ -240,5 +240,5 @@ Mais informações sobre cibersegurança e guias avançados: [Privacidade para J
 * GIJN: [Digital Security](https://gijn.org/digital-security/)
 * Centre for Law and Democracy: [Digital Security Guide for Journalists](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
 
-_Photo by [Luca Bravo](https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-safety?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
+Photo by [Luca Bravo](https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-safety?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
   
