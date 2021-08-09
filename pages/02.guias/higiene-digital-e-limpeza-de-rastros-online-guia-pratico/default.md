@@ -89,7 +89,7 @@ Algumas dicas para se proteger:
 
 Se você ainda não usa um, baixe já um aplicativo de autenticação de múltiplos fatores no seu telefone **pessoal**.
 
-!!! O que é isso? "Autenticação de múltiplos fatores" tem vários nomes, às vezes é chamada de "verificação de duas etapas" ou outras variações. É uma camada de segurança além da sua senha. O serviço (site, sistema, rede social...) passa a pedir um token disponível nesse aplicativo. Portanto, além da sua senha, que pode vazar, um invasor precisaria também desse código para entrar na conta.
+!!! **O que é isso?** "Autenticação de múltiplos fatores" tem vários nomes, às vezes é chamada de "verificação de duas etapas" ou outras variações. É uma camada de segurança além da sua senha. O serviço (site, sistema, rede social...) passa a pedir um token disponível nesse aplicativo. Portanto, além da sua senha, que pode vazar, um invasor precisaria também desse código para entrar na conta.
 
 Existem vários aplicativos para isso. A principal recomendação o Authy porque ele permite sincronizar os tokens de autenticação múltipla em diferentes dispositivos, inclusive o computador, e é possível recuperar a conta mesmo que você perca o seu smartphone.
 
@@ -153,7 +153,7 @@ Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu 
 
 As sugestões de configurações abaixo foram feitas pensando em diminuir a quantidade de informações que pessoas e robôs conseguem juntar facilmente sobre você na internet, inclusive de forma automatizada.
 
-!!!! Parece bastante coisa, mas cada passo aqui leva poucos segundos.
+!!! Parece bastante coisa, mas cada passo aqui leva poucos segundos.
 
 * Facebook ([Configurações de privacidade](https://www.facebook.com/settings?tab=privacy), [Configurações de segurança](https://www.facebook.com/settings?tab=security)):
   * Ativar alertas de login (Segurança e login >  Configuração de segurança extra);
@@ -203,32 +203,6 @@ Uma boa forma de evitar doxxing é vasculhar o que há na internet sobre você e
   * Esse serviço pode ser usado para encontrar contas esquecidas. Procure os nomes de usuário que você usa (ou usou no passado) para ver o que há de perfil ativo nas redes sociais usando esse termo. Talvez encontre aquela conta do MySpace que ficou perdida há uma década...
 
 O NYT tem [orientações mais extensas](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8) sobre fazer um doxxing de si (em inglês).
-
-### Passo 4.3: Saia dos grandes repositórios de dados
-
-* Tempo estimado para completar esta etapa: 15 a 30 minutos
-
- Uma vez a cada três meses, os seguintes repositórios de dados atualizam suas informações pessoais nos sistemas de buscas de pessoas. **Ou seja, para ter resultado no longo prazo, você precisa pedir para esses sistemas removerem suas informações**.
-
- | Data warehouse | Site | Link para remover informações |
- | --- | --- | ---|
-| **Acxiom** | [acxiom.com]('https://www.acxiom.com/') | Em inglês, escrever email pedindo a remoção de seus dados para [Consumer.Privacy@acxiom.com]('mailto:Consumer.Privacy@acxiom.com') |
-| **Epsilon** | [epsilon.com]('https://www.epsilon.com/us') | [https://www.conversantmedia.com/privacy/opt-out]('https://www.conversantmedia.com/privacy/opt-out') |
-
-### Passo 4.4: Plataformas de buscas de pessoas
-
-* Tempo estimado para completar esta etapa: 30 minutos
-
-As plataformas de busca de pessoas são uma fusão de Google com lista telefônica, mas com muito mais dados pessoais. Neles, é possível encontrar várias informações privadas acumuladas num só canto. É possível (e recomendável) pedir a remoção de seus dados dessas plataformas. A Lei Geral de Proteção de Dados garante que os dados precisam ser removidos, mesmo que seja um compilado de vários dados públicos (mas fica um pouco mais complicado quando é um site operando fora do país).
-
-Alguns desses sites vão pedir alguns dados pessoais seus para remover suas informações. Pedirão coisas como email, telefone e endereço. Algumas dicas para lidar com eles:
-
-* **Somente passe dados que eles já têm sobre você**. Se perceberem que eles têm um endereço residencial antigo, não passe um endereço atualizado. Use apenas o endereço já listado.
-* **Prefira usar um email que você normalmente não usa tanto**. Usar um email descartável ao fazer o processo de opt-out é um bom jeito de garantir que seu email principal não vai receber um monte de spam.
-
-**Aviso**: a lista abaixo não é uma lista completa de todos os agregadores que podem incluir informação pessoal. **É uma lista curta de algumas das principais plataformas que vivem de buscas sobre informações pessoais**. Além disso, pode ser que um tempo depois da remoção, novos dados pessoais seus voltem a aparecer nesses lugares. É bom checar de vez em quando.
-
-*Créditos*: a versão inicial dessa lista foi compilada pelo grupo [The Paranoids]('https://twitter.com/TheParanoids') e contou com diferentes fontes de informação, incluindo [New York Times' Doxxing Guide]('https://docs.google.com/document/d/1AyDO5QDp9UUbHHGT3d9JpcTni94xpY66q657a8rDz4I/edit'); [Big Ass Data Broker Opt-Out List]('https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List'); [Privacy Rights Clearinghouse's Data Brokers list]('https://privacyrights.org/data-brokers?terms=&page=6'); e [National Network to End Domestic Violence People Search Engine and Data Broker list]('https://nnedv.org/mdocs-posts/people-searches-data-brokers/').
 
 ## Referências/saiba mais
 
