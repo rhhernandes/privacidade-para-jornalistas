@@ -20,6 +20,8 @@ taxonomy:
 media_order: luca-bravo-9l_326FISzk-unsplash.jpg
 ---
 
+![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024)
+
 # Higiene digital e limpeza de rastros online: guia prático
 
 [TOC]
@@ -43,8 +45,6 @@ Com alguns procedimentos simples você pode reduzir drasticamente as chances de 
 * Lembre-se do **bom senso**: manter-se alerta, não clicar em links desconhecidos, usar antivírus no computador e no celular (use marcas conhecidas, vale a pena pagar pelo serviço.)
 
 Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters.
-
-![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024&cropResize=600,600)
 
 ## Passo 1: Gerenciadores de senha
 
