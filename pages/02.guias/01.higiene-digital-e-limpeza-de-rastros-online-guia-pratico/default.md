@@ -3,15 +3,15 @@ title: 'Higiene digital e limpeza de rastros online: guia prático'
 published: true
 metadata:
     author: 'Raphael Hernandes'
-    description: ''
-    'og:title': ''
-    'og:description': ''
+    description: 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
+    'og:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
+    'og:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
     'og:image': ''
-    'twitter:card': ''
-    'twitter:site': ''
-    'twitter:creator': ''
-    'twitter:title': ''
-    'twitter:description': ''
+    'twitter:card': summary_large_image
+    'twitter:site': '@hernandesraph'
+    'twitter:creator': '@hernandesraph'
+    'twitter:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
+    'twitter:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
     'twitter:image': ''
 taxonomy:
     tag:
