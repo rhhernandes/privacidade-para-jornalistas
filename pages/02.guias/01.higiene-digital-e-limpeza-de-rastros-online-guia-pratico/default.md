@@ -69,9 +69,9 @@ Infelizmente, não temos mais opções completas e gratuitas de gerenciadores de
 
 Algumas opções:
 
-* 1Password (possui programa de gratuidade para jornalistas)
-* Bitwarden (possui versão gratuita)
-* Kaspersky Password Manager
+* [1Password](https://1password.com/pt/) (possui [programa de gratuidade para jornalistas](https://1password.com/pt/for-journalism/))
+* [Bitwarden](https://bitwarden.com/) (possui versão gratuita)
+* [Kaspersky Password Manager](https://www.kaspersky.com.br/password-manager)
 
 !!! **Extra:** A Freedom of the Press Foundation tem um guia ótimo sobre [como escolher uma dessas ferramentas](https://freedom.press/training/blog/choosing-password-manager/).
 
