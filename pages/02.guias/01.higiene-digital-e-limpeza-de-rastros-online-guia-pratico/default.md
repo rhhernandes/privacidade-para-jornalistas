@@ -48,7 +48,7 @@ Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você
 
 ## Passo 1: Gerenciadores de senha
 
-* Tempo estimado para completar esta etapa: 30 a 40 minutos
+_Tempo estimado para completar esta etapa: 30 a 40 minutos_
 
 As chances de perder o controle de sues serviços digitais cai --exponencialmente-- quando você usa um aplicativo para gerar e armazenar senhas fortes e únicas. Afinal, nenhum de nós tem memória ou criatividade para criar boas senhas para cada um dos serviços e trocar periodicamente.
 
@@ -92,7 +92,7 @@ Só instalar o gerenciador não adianta. É necessário entrar em cada serviço/
 
 ## Passo 2: proteja-se de ataques contra seu chip de celular
 
-* Tempo estimado para completar esta etapa: de 5 a 10 minutos
+_Tempo estimado para completar esta etapa: de 5 a 10 minutos_
 
 SIM Swapping é uma técnica bastante usada por criminosos para roubar um número de celular e colocá-lo num outro chip. Com isso, eles passam a receber sua comunicação --inclusive, por exemplo, mensagens de textos com códigos de acesso que o banco envia. No Brasil, em alguns casos, há pessoas das próprias operadoras envolvidas no esquema. Em outros casos, usam algumas técnicas menos avançadas para fazer com que esses códigos de verificação (principalmente o de ativação do WhatsApp) parem no seu correio de voz. Como muitas pessoas usam a senha padrão da operadora no correio de voz, é fácil ter acesso aos dados.
 
@@ -105,7 +105,7 @@ Algumas dicas para se proteger:
 
 ## Passo 3: Configurações de privacidade e autenticação de múltiplos fatores
 
-* Tempo estimado para completar esta etapa: de 1h a 1h30min
+_Tempo estimado para completar esta etapa: de 1h a 1h30min_
 
 Se você ainda não usa um, baixe já um aplicativo de autenticação de múltiplos fatores no seu telefone **pessoal**.
 
@@ -136,7 +136,7 @@ Este [outro guia](https://twofactorauth.org/) (também em inglês) traz tudo o q
 
 ### Passo 3.1: Autenticação em dois fatores no WhatsApp
 
-* Tempo estimado para completar esta etapa: 5 minutos
+_Tempo estimado para completar esta etapa: 5 minutos_
 
 Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns por um motivo: é fácil roubar uma conta. Por mais que [os métodos variem]('https://www1.folha.uol.com.br/tec/2019/06/saiba-proteger-seu-whatsapp-de-hackers-e-entenda-como-o-ataque-acontece.shtml'), usar autenticação em dois fatores no mensageiro dá uma proteção extra contra quase todos eles. Como fazer:
 
@@ -161,7 +161,7 @@ Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu 
 
 ### Passo 4.1: Configurações de privacidade nas redes sociais
 
-* Tempo estimado para completar esta etapa: de 30 a 60 minutos
+_Tempo estimado para completar esta etapa: de 30 a 60 minutos_
 
 * Uma boa prática pode ser ter perfis pessoais (sem seu nome real) e páginas públicas;
 * Verifique quem pode ver por padrão as suas postagens em cada rede. Facebook é ótimo para expor quem são seus familiares e pessoas próximas;
