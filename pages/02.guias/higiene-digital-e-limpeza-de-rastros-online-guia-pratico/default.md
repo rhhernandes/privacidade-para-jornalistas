@@ -68,7 +68,7 @@ Só instalar o gerenciador não adianta. É necessário entrar em cada serviço/
 * Reddit ([Atualizar sua senha](https://www.reddit.com/prefs/update/))
 * PayPal ([Password Change](https://www.paypal.com/myaccount/security/password/change))
 
-! **Dica**: é rapidinho para se acostumar com o gerenciador, mas até lá, é mais fácil copiar e colar as senhas criadas pelo gerador e garantir que elas estejam salvas no sistema.
+!!! **Dica**: é rapidinho para se acostumar com o gerenciador, mas até lá, é mais fácil copiar e colar as senhas criadas pelo gerador e garantir que elas estejam salvas no sistema.
 
 ## Passo 2: proteja-se de ataques contra seu chip de celular
 
