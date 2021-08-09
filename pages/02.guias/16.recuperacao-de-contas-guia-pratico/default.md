@@ -21,7 +21,11 @@ date: '09-08-2021 20:20'
 ---
 
 ![](neonbrand-mgYAR7BzBk4-unsplash.jpg)
-  
+
+# Recuperação de contas: guia prático
+
+[TOC]
+
 ## Introdução
 
 Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas **pessoais**. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. É possível que alguém tenha entrado em uma (ou mais) de suas contas.
