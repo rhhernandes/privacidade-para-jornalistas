@@ -16,11 +16,11 @@ taxonomy:
     tag:
         - 'recuperação de contas'
         - hacking
-media_order: neonbrand-mgYAR7BzBk4-unsplash.jpg
+media_order: 'neonbrand-mgYAR7BzBk4-unsplash.jpg,CROPneonbrand-mgYAR7BzBk4-unsplash.jpg'
 date: '09-08-2021 20:20'
 ---
 
-![](neonbrand-mgYAR7BzBk4-unsplash.jpg)
+![](CROPneonbrand-mgYAR7BzBk4-unsplash.jpg)
 
 # Recuperação de contas: guia prático
 
@@ -140,4 +140,4 @@ Mais informações sobre cibersegurança e guias avançados: [Privacidade para J
 * LinkedIn: [Como denunciar uma conta invadida](https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account)
 * WhatsApp: [Como recuperar sua conta](https://faq.whatsapp.com/general/account-and-profile/stolen-accounts)
 
-_Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
+Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
