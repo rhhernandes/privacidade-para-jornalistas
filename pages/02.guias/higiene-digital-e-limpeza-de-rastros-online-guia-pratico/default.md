@@ -6,7 +6,7 @@ title: 'Higiene digital e limpeza de rastros online: guia prático'
 
 [TOC]
 
-! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o guia de recuperação de contas.
+! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o [guia de recuperação de contas](/).
 
 ## Introdução
 
