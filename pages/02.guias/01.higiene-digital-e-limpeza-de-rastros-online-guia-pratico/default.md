@@ -159,9 +159,9 @@ Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu 
 
 ## Passo 4: Gerencie seus rastros
 
-### Passo 4.1: Configurações de privacidade nas redes sociais
-
 _Tempo estimado para completar esta etapa: de 30 a 60 minutos_
+
+### Passo 4.1: Configurações de privacidade nas redes sociais
 
 * Uma boa prática pode ser ter perfis pessoais (sem seu nome real) e páginas públicas;
 * Verifique quem pode ver por padrão as suas postagens em cada rede. Facebook é ótimo para expor quem são seus familiares e pessoas próximas;
