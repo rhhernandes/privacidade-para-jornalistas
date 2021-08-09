@@ -46,12 +46,21 @@ Se você notar alguma atividade estranha nas suas contas, a primeira coisa que v
 
 Uma vez que você tenha recuperado o seu email (ou garantido a segurança dele), é a hora de olhar as outras contas. Talvez demore um pouco para conseguir o acesso novamente, dado que alguns desses serviços requerem algum tipo de prova de que a conta é realmente sua.
 
-* WhatsApp: veja o [guia](https://faq.whatsapp.com/general/account-and-profile/stolen-accounts).
 * Twitter: veja o [guia](https://help.twitter.com/pt/safety-and-security) ou vá diretamente para a [página de recuperação](https://twitter.com/account/begin_password_reset);
 * Facebook: veja o [guia](https://www.facebook.com/help/231208473756221) ou vá diretamente para a [página de recuperação](https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login);
 * Instagram: veja o [guia](https://help.instagram.com/374546259294234) ou vá diretamente para a [página de recuperação](https://www.instagram.com/accounts/password/reset/);
 * Linkedin: veja o [guia](https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account?lang=pt) ou vá diretamente para a [página de recuperação](https://www.linkedin.com/uas/request-password-reset);
 * Apple: veja o [guia](https://support.apple.com/pt-br/HT204921) ou vá diretamente para a [página de recuperação](https://iforgot.apple.com/).
+
+### O que fazer se tiver o WhatsApp roubado?
+
+Entre no aplicativo pelo seu próprio telefone e ative a conta por ali. Isso deve ser o suficiente para remover os invasores, já que o WhatsApp não fica ativo em dois telefones ao mesmo tempo.
+
+Se não funcionar, entre em contato com a equipe de atendimento do WhatsApp, escrevendo para support@whatsapp.com. O email pode ser enviado em português. No assunto, inclua "conta roubada" e o número de telefone em formato internacional (+55, DDD e o número). Ex.: "Conta roubada / +55 11 1234-5678".
+
+Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu nome. Faça um BO.
+
+Saiba mais no [guia oficial](https://faq.whatsapp.com/general/account-and-profile/stolen-accounts).
 
 ## Passo 2: trocar a fechadura
 
@@ -123,12 +132,12 @@ Fale comigo: Raphael Hernandes (Rapha) - por [email](mailto:r@privacidadeparajor
 
 Mais informações sobre cibersegurança e guias avançados: [Privacidade para Jornalistas](https://privacidadeparajornalistas.org/)
 
-Privacidade para Jornalistas: [guia prático de higiene digital e limpeza de rastros online](guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
-Google: [Proteger uma Conta do Google invadida ou comprometida](https://support.google.com/accounts/answer/6294825?hl=pt-BR)
-Apple: [Se você acha que seu ID Apple foi comprometido](https://support.apple.com/pt-br/HT204145)
-Facebook: [Eu acho que minha conta do Facebook foi invadida ou alguém a está usando sem minha permissão](https://www.facebook.com/help/203305893040179)
-Twitter: [Ajuda para minha conta comprometida](https://help.twitter.com/pt/safety-and-security/twitter-account-compromised)
-LinkedIn: [Como denunciar uma conta invadida](https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account)
-WhatsApp: [Como recuperar sua conta](https://faq.whatsapp.com/general/account-and-profile/stolen-accounts)
+* Privacidade para Jornalistas: [guia prático de higiene digital e limpeza de rastros online](guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
+* Google: [Proteger uma Conta do Google invadida ou comprometida](https://support.google.com/accounts/answer/6294825?hl=pt-BR)
+* Apple: [Se você acha que seu ID Apple foi comprometido](https://support.apple.com/pt-br/HT204145)
+* Facebook: [Eu acho que minha conta do Facebook foi invadida ou alguém a está usando sem minha permissão](https://www.facebook.com/help/203305893040179)
+* Twitter: [Ajuda para minha conta comprometida](https://help.twitter.com/pt/safety-and-security/twitter-account-compromised)
+* LinkedIn: [Como denunciar uma conta invadida](https://www.linkedin.com/help/linkedin/answer/56363/reporting-a-hacked-account)
+* WhatsApp: [Como recuperar sua conta](https://faq.whatsapp.com/general/account-and-profile/stolen-accounts)
 
 _Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
