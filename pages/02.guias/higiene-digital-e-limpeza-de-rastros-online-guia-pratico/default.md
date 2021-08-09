@@ -81,7 +81,7 @@ Algumas dicas para se proteger:
 1. Tenha números separados: um para vincular a contas e usar no dia-a-dia e outro para contatar fontes. Caso seu número secundário seja vazado na internet (prática frequentemente usada para intimidar jornalistas) é possível descartá-lo sem grande dor de cabeça.
 1. O correio de voz é um vetor frequente de ataques. A melhor opção é simplesmente desabilitar o recurso. No mínimo, configure uma senha personalizada.
 
-! **Dica**: se estiver com dificuldades, entre em contato com a operadora
+!!! **Dica**: se estiver com dificuldades, entre em contato com a operadora
 
 ## Passo 3: Configurações de privacidade e autenticação de múltiplos fatores
 
