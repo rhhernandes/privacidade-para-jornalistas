@@ -20,7 +20,7 @@ taxonomy:
 media_order: luca-bravo-9l_326FISzk-unsplash.jpg
 ---
 
-![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024)
+![](luca-bravo-9l_326FISzk-unsplash.jpg)
 
 # Higiene digital e limpeza de rastros online: guia prático
 
