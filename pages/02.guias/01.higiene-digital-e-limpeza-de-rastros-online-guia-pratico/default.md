@@ -46,7 +46,6 @@ Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você
 
 ![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024&cropResize=600,600)
 
-[ui-accordion independent=true open=all]
 [ui-accordion-item title="Section 1"]
 
 ## Passo 1: Gerenciadores de senha
