@@ -1,5 +1,22 @@
 ---
 title: 'Higiene digital e limpeza de rastros online: guia prático'
+published: true
+metadata:
+    author: 'Raphael Hernandes'
+    description: ''
+    'og:title': ''
+    'og:description': ''
+    'og:image': ''
+    'twitter:card': ''
+    'twitter:site': ''
+    'twitter:creator': ''
+    'twitter:title': ''
+    'twitter:description': ''
+    'twitter:image': ''
+taxonomy:
+    tag:
+        - doxxing
+        - 'assédio online'
 ---
 
 # Higiene digital e limpeza de rastros online: guia prático
@@ -93,7 +110,7 @@ Se você ainda não usa um, baixe já um aplicativo de autenticação de múltip
 
 Existem vários aplicativos para isso. A principal recomendação o Authy porque ele permite sincronizar os tokens de autenticação múltipla em diferentes dispositivos, inclusive o computador, e é possível recuperar a conta mesmo que você perca o seu smartphone.
 
-! **Dica**: mantenha o código de backup do Authy no seu gerenciador de senhas para que ele seja preenchido automaticamente no seu smartphone.
+!!! **Dica**: mantenha o código de backup do Authy no seu gerenciador de senhas para que ele seja preenchido automaticamente no seu smartphone.
 
 Uma vez instalado o Authy, será necessário ativar a autenticação de múltiplos fatores nas suas contas mais importantes. Já aproveite para ajustar as configurações de privacidade nessas contas (mais informações abaixo):
 
@@ -153,7 +170,7 @@ Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu 
 
 As sugestões de configurações abaixo foram feitas pensando em diminuir a quantidade de informações que pessoas e robôs conseguem juntar facilmente sobre você na internet, inclusive de forma automatizada.
 
-!!! Parece bastante coisa, mas cada passo aqui leva poucos segundos.
+!!!! Parece bastante coisa, mas cada passo aqui leva poucos segundos.
 
 * Facebook ([Configurações de privacidade](https://www.facebook.com/settings?tab=privacy), [Configurações de segurança](https://www.facebook.com/settings?tab=security)):
   * Ativar alertas de login (Segurança e login >  Configuração de segurança extra);
