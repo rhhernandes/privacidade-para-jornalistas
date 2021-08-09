@@ -46,6 +46,7 @@ Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você
 
 ![](luca-bravo-9l_326FISzk-unsplash.jpg?lightbox=1024&cropResize=600,600)
 
+[ui-accordion independent=true open=all]
 [ui-accordion-item title="Section 1"]
 
 ## Passo 1: Gerenciadores de senha
@@ -93,7 +94,7 @@ Só instalar o gerenciador não adianta. É necessário entrar em cada serviço/
 !!! **Dica**: é rapidinho para se acostumar com o gerenciador, mas até lá, é mais fácil copiar e colar as senhas criadas pelo gerador e garantir que elas estejam salvas no sistema.
 
 [/ui-accordion-item]
-
+[/ui-accordion]
 ## Passo 2: proteja-se de ataques contra seu chip de celular
 
 _Tempo estimado para completar esta etapa: de 5 a 10 minutos_
