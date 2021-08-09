@@ -32,7 +32,7 @@ Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você
 
 As chances de perder o controle de sues serviços digitais cai --exponencialmente-- quando você usa um aplicativo para gerar e armazenar senhas fortes e únicas. Afinal, nenhum de nós tem memória ou criatividade para criar boas senhas para cada um dos serviços e trocar periodicamente.
 
-! Atacantes frequentemente se aproveitam de vazamentos de dados para descobrir as senhas das vítimas. Se você não as troca com frequência e elas vazam: problema. Se você usa a mesma senha no Minecraft e no Twitter e as senhas do game vazam, o adversário terá também acesso à rede social. É aí que os gerenciadores são bem úteis.
+!!! Atacantes frequentemente se aproveitam de vazamentos de dados para descobrir as senhas das vítimas. Se você não as troca com frequência e elas vazam: problema. Se você usa a mesma senha no Minecraft e no Twitter e as senhas do game vazam, o adversário terá também acesso à rede social. É aí que os gerenciadores são bem úteis.
 
 **Além disso, gerenciadores de senha deixam muito mais difícil que alguém roube suas senhas** em um ataque de phishing **porque você simplesmente não sabe as senhas de cabeça**.
 
