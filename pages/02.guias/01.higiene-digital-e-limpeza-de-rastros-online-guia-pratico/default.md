@@ -147,6 +147,8 @@ Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns po
 1. A partir daí basta apertar em "ativar" e seguir as instruções da tela. Você vai configurar uma senha, que será necessária para ativar o WhatsApp num celular novo. Periodicamente, o app vai te perguntar essa senha para garantir que não se esqueça dela.
 1. Configure um email para a recuperação. Lembre-se de cuidar da segurança do seu email seguindo os passos anteriores deste guia.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/amMyHuPor-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ! O WhatsApp pode não ser a melhor forma de conversar com suas fontes. Ele é criptografado, ou seja, esconde o conteúdo das conversas. Ele não esconde, no entanto, quem conversou com quem e quando. No geral, [Signal](https://signal.org/pt_BR/) e [Threema](https://threema.ch/en/) oferecem mais segurança, mas também deixam esse tipo de rastro. Para uma conversa com menos vestígios, veja [esta página](https://privacidadeparajornalistas.org/guias#chat) (são recursos mais avançados).
 
 #### O que fazer se tiver o WhatsApp roubado?
@@ -230,13 +232,13 @@ Fale comigo: Raphael Hernandes (Rapha) - por [email](mailto:r@privacidadeparajor
 
 Mais informações sobre cibersegurança e guias avançados: [Privacidade para Jornalistas](https://privacidadeparajornalistas.org/)
 
-NYT Open: [Social Media Security & Privacy Checklists](https://docs.google.com/document/d/1ud1ILFkIG0BeLX9jlzJMxCPm8-cSeqPjU60nkhUPYA8/edit)
-NYT Open: [A Guide to Doxxing Yourself on the Internet](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8)
-Apple: [Device and Data Access when Personal Safety is At Risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
-EFF: [Segurança do jornalista em viagem](https://ssd.eff.org/pt-br/playlist/jornalista-em-viagem)
-Pen Foundation: [Online harassment field manual](https://onlineharassmentfieldmanual.pen.org/prepare-for-online-harassment/)
-GIJN: [Digital Security](https://gijn.org/digital-security/)
-Centre for Law and Democracy: [Digital Security Guide for Journalists](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
+* NYT Open: [Social Media Security & Privacy Checklists](https://docs.google.com/document/d/1ud1ILFkIG0BeLX9jlzJMxCPm8-cSeqPjU60nkhUPYA8/edit)
+* NYT Open: [A Guide to Doxxing Yourself on the Internet](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8)
+* Apple: [Device and Data Access when Personal Safety is At Risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
+* EFF: [Segurança do jornalista em viagem](https://ssd.eff.org/pt-br/playlist/jornalista-em-viagem)
+* Pen Foundation: [Online harassment field manual](https://onlineharassmentfieldmanual.pen.org/prepare-for-online-harassment/)
+* GIJN: [Digital Security](https://gijn.org/digital-security/)
+* Centre for Law and Democracy: [Digital Security Guide for Journalists](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
 
 _Photo by [Luca Bravo](https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-safety?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
   
