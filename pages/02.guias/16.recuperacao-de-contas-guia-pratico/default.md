@@ -119,7 +119,7 @@ Fale comigo: Raphael Hernandes (Rapha) - por [email](mailto:r@privacidadeparajor
 
 Mais informações sobre cibersegurança e guias avançados: [Privacidade para Jornalistas](https://privacidadeparajornalistas.org/)
 
-Privacidade para Jornalistas: [guia prático de higiene digital e limpeza de rastros online](/)
+Privacidade para Jornalistas: [guia prático de higiene digital e limpeza de rastros online](guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
 Google: [Proteger uma Conta do Google invadida ou comprometida](https://support.google.com/accounts/answer/6294825?hl=pt-BR)
 Apple: [Se você acha que seu ID Apple foi comprometido](https://support.apple.com/pt-br/HT204145)
 Facebook: [Eu acho que minha conta do Facebook foi invadida ou alguém a está usando sem minha permissão](https://www.facebook.com/help/203305893040179)
