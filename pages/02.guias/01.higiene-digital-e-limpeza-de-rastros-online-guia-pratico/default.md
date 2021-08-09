@@ -26,11 +26,11 @@ media_order: luca-bravo-9l_326FISzk-unsplash.jpg
 
 [TOC]
 
-! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o [guia de recuperação de contas](/).
+! Este é um guia de prevenção. Se suas contas já foram roubadas, veja o [guia de recuperação de contas](/guias/recuperacao-de-contas-guia-pratico).
 
 ## Introdução
 
-**Quais informações podem ser consideradas genuinamente pessoais?** Endereço, localização dos pais, celular do ex-marido...
+**Quais informações podem ser consideradas genuinamente pessoais?** Endereço, CPF, localização dos pais, celular do ex-marido...
 
 Esses detalhes, para a surpresa de muitos de nós, podem ser obtidos por meio de uma indústria de mecanismos de buscas online (tipo um Google de dados pessoais) e _corretores de dados_. Ferramentas legítimas que, cada vez mais, tornam-se armas para publicar na internet informações de repórteres, ativistas e executivos.
 
