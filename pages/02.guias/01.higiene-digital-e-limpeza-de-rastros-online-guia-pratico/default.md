@@ -6,17 +6,18 @@ metadata:
     description: 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
     'og:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
     'og:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
-    'og:image': ''
+    'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.higiene-digital-e-limpeza-de-rastros-online-guia-pratico/luca-bravo-9l_326FISzk-unsplash.jpg'
     'twitter:card': summary_large_image
     'twitter:site': '@hernandesraph'
     'twitter:creator': '@hernandesraph'
     'twitter:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
     'twitter:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
-    'twitter:image': ''
+    'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.higiene-digital-e-limpeza-de-rastros-online-guia-pratico/luca-bravo-9l_326FISzk-unsplash.jpg'
 taxonomy:
     tag:
         - doxxing
         - 'assédio online'
+media_order: luca-bravo-9l_326FISzk-unsplash.jpg
 ---
 
 # Higiene digital e limpeza de rastros online: guia prático
@@ -42,6 +43,8 @@ Com alguns procedimentos simples você pode reduzir drasticamente as chances de 
 * Lembre-se do **bom senso**: manter-se alerta, não clicar em links desconhecidos, usar antivírus no computador e no celular (use marcas conhecidas, vale a pena pagar pelo serviço.)
 
 Na sequência, oferecemos um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters.
+
+![luca-bravo-9l_326FISzk-unsplash](luca-bravo-9l_326FISzk-unsplash.jpg "luca-bravo-9l_326FISzk-unsplash")
 
 ## Passo 1: Gerenciadores de senha
 
@@ -234,3 +237,6 @@ EFF: [Segurança do jornalista em viagem](https://ssd.eff.org/pt-br/playlist/jor
 Pen Foundation: [Online harassment field manual](https://onlineharassmentfieldmanual.pen.org/prepare-for-online-harassment/)
 GIJN: [Digital Security](https://gijn.org/digital-security/)
 Centre for Law and Democracy: [Digital Security Guide for Journalists](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
+
+_Photo by [Luca Bravo](https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-safety?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
+  
