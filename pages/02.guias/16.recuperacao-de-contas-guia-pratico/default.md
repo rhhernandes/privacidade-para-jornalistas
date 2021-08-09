@@ -1,17 +1,16 @@
 ---
 title: 'Recuperação de contas: guia prático'
-published: false
 metadata:
     author: 'Raphael Hernandes'
-    description: 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
-    'og:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
-    'og:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
+    description: 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
+    'og:title': 'Guia prático de recuperação de contas | Privacidade para Jornalistas'
+    'og:description': 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
     'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.higiene-digital-e-limpeza-de-rastros-online-guia-pratico/luca-bravo-9l_326FISzk-unsplash.jpg'
     'twitter:card': summary_large_image
     'twitter:site': '@hernandesraph'
     'twitter:creator': '@hernandesraph'
-    'twitter:title': 'Guia prático de higiene digital e limpeza de rastros online | Privacidade para Jornalistas'
-    'twitter:description': 'Este é um guia passo a passo, bem pragmático, para que você se torne um alvo mais difícil para os haters. Com alguns passos simples você pode se proteger melhor contra doxxing e outros tipos de ataques virtuais.'
+    'twitter:title': 'Guia prático de recuperação de contas | Privacidade para Jornalistas'
+    'twitter:description': 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
     'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/01.higiene-digital-e-limpeza-de-rastros-online-guia-pratico/luca-bravo-9l_326FISzk-unsplash.jpg'
 taxonomy:
     tag:
@@ -26,7 +25,7 @@ media_order: neonbrand-mgYAR7BzBk4-unsplash.jpg
 
 Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas **pessoais**. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. É possível que alguém tenha entrado em uma (ou mais) de suas contas.
 
-Este guia é para te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.
+Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.
 
 ## Passo 1: Recuperar o acesso
 
