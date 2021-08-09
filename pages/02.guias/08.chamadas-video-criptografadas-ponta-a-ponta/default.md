@@ -28,7 +28,7 @@ Há muitas situações na vida de um jornalista em que é necessário fazer uma 
 
 Tenha em mente que esse programa deixa metadados. Só use o Wire se você não se importar que você e sua fonte possam ser ligados um ao outro.
 
-! O Skype não oferece criptografia de ponta a ponta para chamadas em vídeo. Na verdade, há casos de a Microsoft entregar as gravações para várias agências de governos, [mesmo sem um mandato][2]
+! O Skype não oferece criptografia de ponta a ponta para chamadas em vídeo. Na verdade, há casos de a Microsoft entregar as gravações para várias agências de governos, [mesmo sem um mandado][2]
 
 ## Instalar o Wire
 
