@@ -245,6 +245,7 @@ Fale comigo: Raphael Hernandes (Rapha) - por [**email**](mailto:r@privacidadepar
 
 Mais informações sobre cibersegurança e guias avançados: [**Privacidade para Jornalistas**](https://privacidadeparajornalistas.org/)
 
+* Privacidade para Jornalistas: [**Guia prático de recuperação de contas**](/guias/recuperacao-de-contas-guia-pratico)
 * Abraji: [**Como lidar com assédio contra jornalistas nas redes**](https://medium.com/@cartilhaabraji/assedioonlineajornalistas-org-br-c0225a55335b)
 * NYT Open: [**Social Media Security & Privacy Checklists**](https://docs.google.com/document/d/1ud1ILFkIG0BeLX9jlzJMxCPm8-cSeqPjU60nkhUPYA8/edit)
 * NYT Open: [**A Guide to Doxxing Yourself on the Internet**](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8)
