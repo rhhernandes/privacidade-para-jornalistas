@@ -34,9 +34,9 @@ media_order: 'luca-bravo-9l_326FISzk-unsplash.jpg,CROPluca-bravo-9l_326FISzk-uns
 
 Esses detalhes, para a surpresa de muitos de nós, podem ser obtidos por meio de uma indústria de mecanismos de buscas online (tipo um Google de dados pessoais) e _corretores de dados_. Ferramentas legítimas que, cada vez mais, tornam-se armas para publicar na internet informações de repórteres, ativistas e executivos.
 
-O nome disso é _doxxing_. Frequentemente é usado para incitar assédio ou violência contra as vítimas. Essa prática muitas vezes já é basta para que os atacantes tenham informações o suficiente para roubar contas de email ou redes sociais do alvo.
+O nome disso é _doxxing_. Frequentemente é usado para incitar assédio ou violência contra as vítimas. Essa prática muitas vezes já basta para que os atacantes tenham informações o suficiente para roubar contas de email ou redes sociais do alvo.
 
-Com alguns procedimentos simples você pode reduzir drasticamente as chances de ser vítima dessas práticas. Como?
+Com alguns procedimentos simples você pode reduzir drasticamente as chances de ser vítima desse tipo de ataque. Como?
 
 * **Use um gerenciador de senhas** para criar credenciais únicas e que são mais difíceis de serem roubadas.
 * **Tome cuidado com as configurações de privacidade** nas redes sociais, limitando o acessos de pessoas que não são aquelas mais próximas.
