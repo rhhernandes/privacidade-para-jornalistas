@@ -43,7 +43,7 @@ Se você notar alguma atividade estranha nas suas contas, a primeira coisa que v
 * Microsoft/Outlook/Hotmail: veja o [**guia**](https://support.microsoft.com/pt-br/account-billing/ajuda-com-o-formul%C3%A1rio-de-recupera%C3%A7%C3%A3o-de-conta-microsoft-b19c02d1-a782-dee6-93c3-dc8113b20c42) ou vá diretamente para a [**página de recuperação**](https://account.live.com/password/reset).
 
 [center]
-![](recovery.png?lightbox&cropResize=800,800)
+![](001recovery.png?lightbox&cropResize=800,800)
 [/center]
 
 ### Recuperar outras contas
