@@ -16,7 +16,7 @@ metadata:
 taxonomy:
     tag:
         - doxxing
-media_order: 'luca-bravo-9l_326FISzk-unsplash.jpg,CROPluca-bravo-9l_326FISzk-unsplash.jpg'
+media_order: 'luca-bravo-9l_326FISzk-unsplash.jpg,CROPluca-bravo-9l_326FISzk-unsplash.jpg,01gerenciadorsenhas.png,02privacidade.png,03pwned.png'
 ---
 
 ![](CROPluca-bravo-9l_326FISzk-unsplash.jpg)
@@ -56,6 +56,10 @@ As chances de perder o controle de sues serviços digitais cai --exponencialment
 **Além disso, gerenciadores de senha deixam muito mais difícil que alguém roube suas senhas** em um ataque de phishing **porque você simplesmente não sabe as senhas de cabeça**.
 
 _Phishing é a forma mais comum de ataques no Brasil. Nela, o cibercriminoso cria uma mensagem falsa (simulando, por exemplo, uma comunicação de banco) para tentar ludibriar a vítima a passar seus dados pessoais._
+
+[center]
+![](01gerenciadorsenhas.png?lightbox&cropResize=800,800)
+[/center]
 
 ### Segurança do gerenciador
 
@@ -116,6 +120,8 @@ Existem vários aplicativos para isso. A principal recomendação o Authy porque
 
 Uma vez instalado o Authy, será necessário ativar a autenticação de múltiplos fatores nas suas contas mais importantes. Já aproveite para ajustar as configurações de privacidade nessas contas (mais informações abaixo):
 
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ds_TANz4n3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 ### Onde habilitar (prioridade)
 
 * Gerenciador de senhas ([**1Password**](https://support.1password.com/two-factor-authentication/), [**Kaspersky**](https://my.kaspersky.com/dashboard#/(modal:myaccount/security)), [**Bitwarden**](https://bitwarden.com/help/article/setup-two-step-login/))
@@ -146,7 +152,7 @@ Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns po
 1. A partir daí basta apertar em "ativar" e seguir as instruções da tela. Você vai configurar uma senha, que será necessária para ativar o WhatsApp num celular novo. Periodicamente, o app vai te perguntar essa senha para garantir que não se esqueça dela.
 1. Configure um email para a recuperação. Lembre-se de cuidar da segurança do seu email seguindo os passos anteriores deste guia.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/amMyHuPor-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/amMyHuPor-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ! O WhatsApp pode não ser a melhor forma de conversar com suas fontes. Ele é criptografado, ou seja, esconde o conteúdo das conversas. Ele não esconde, no entanto, quem conversou com quem e quando. No geral, [**Signal**](https://signal.org/pt_BR/) e [**Threema**](https://threema.ch/en/) oferecem mais segurança, mas também deixam esse tipo de rastro. Para uma conversa com menos vestígios, veja [**esta página**](https://privacidadeparajornalistas.org/guias#chat) (são recursos mais avançados).
 
@@ -154,7 +160,7 @@ Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns po
 
 Entre no aplicativo pelo seu próprio telefone e ative a conta por ali. Isso deve ser o suficiente para remover os invasores, já que o WhatsApp não fica ativo em dois telefones ao mesmo tempo.
 
-Se não funcionar, entre em contato com a equipe de atendimento do WhatsApp, escrevendo para support@whatsapp.com. O email pode ser enviado em português. No assunto, inclua "conta roubada" e o número de telefone em formato internacional (+55, DDD e o número). Ex.: "Conta roubada / +55 11 1234-5678".
+Se não funcionar, entre em contato com a equipe de atendimento do WhatsApp, escrevendo para [support@whatsapp.com](mailto:support@whatsapp.com). O email pode ser enviado em português. No assunto, inclua "conta roubada" e o número de telefone em formato internacional (+55, DDD e o número). Ex.: "Conta roubada / +55 11 1234-5678".
 
 Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu nome. Faça um BO.
 
@@ -169,6 +175,10 @@ _Tempo estimado para completar esta etapa: de 30 a 60 minutos_
 * No Facebook, a foto de capa é sempre pública e dá para descobrir pessoas próximas a você analisando quem curtiu/comentou. Melhor não ter uma foto de capa;
 * Cuidado com informações de localização. No Twitter, elas podem aparecer cada vez que você faz um novo tweet (é necessário/relevante dizer de qual cidade você está tuitando?). LinkedIn exibe sua cidade de residência, e por aí vai;
 * Verifique as configurações de seu correio de voz com sua operadora de telefonia. Essa tecnologia é praticamente inútil no Brasil e pode ser usada em golpes, por isso talvez a melhor opção seja desabilitar o correio de voz por completo. Pelo menos coloque uma senha nele.
+
+[center]
+![](02privacidade.png?lightbox&cropResize=800,800)
+[/center]
 
 #### Links úteis para configurar privacidade nas redes
 
@@ -222,6 +232,10 @@ Uma boa forma de evitar doxxing é vasculhar o que há na internet sobre você e
   * Buscas no Google podem ser convertidas em alertas por email. Você pode configurar o Google Alertas para te enviar um email toda vez que o site de buscas encontrar um novo resultado com seus dados.
 * [**namecheckr**](https://www.namecheckr.com/)
   * Esse serviço pode ser usado para encontrar contas esquecidas. Procure os nomes de usuário que você usa (ou usou no passado) para ver o que há de perfil ativo nas redes sociais usando esse termo. Talvez encontre aquela conta do MySpace que ficou perdida há uma década...
+
+[center]
+![](03pwned.png?lightbox&cropResize=800,800)
+[/center]
 
 O NYT tem [**orientações mais extensas**](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8) sobre fazer um doxxing de si (em inglês).
 
