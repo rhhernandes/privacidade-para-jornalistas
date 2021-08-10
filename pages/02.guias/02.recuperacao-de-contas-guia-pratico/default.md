@@ -26,6 +26,9 @@ date: '09-08-2021 20:20'
 
 [TOC]
 
+
+! Este é um guia para ajudar após eventuais ataques. A parte mais importante do trabalho é a prevenção, veja o [**guia prático de higiene digital e limpeza de rastros online**](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico).
+
 ## Introdução
 
 Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas **pessoais**. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. É possível que alguém tenha entrado em uma (ou mais) de suas contas.
@@ -138,9 +141,9 @@ O Facebook e o Google possuem sistemas de check-up de segurança e privacidade p
 
 Fale comigo: Raphael Hernandes (Rapha) - por [**email**](mailto:r@privacidadeparajornalistas.org) ou no [**Twitter**](https://twitter.com/hernandesraph).
 
-Mais informações sobre cibersegurança e guias avançados: [**Privacidade para Jornalistas**](https://privacidadeparajornalistas.org/)
+Mais informações sobre cibersegurança e guias avançados: [**Privacidade para Jornalistas**](/)
 
-* Privacidade para Jornalistas: [**guia prático de higiene digital e limpeza de rastros online**](guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
+* Privacidade para Jornalistas: [**guia prático de higiene digital e limpeza de rastros online**](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
 * Google: [**Proteger uma Conta do Google invadida ou comprometida**](https://support.google.com/accounts/answer/6294825?hl=pt-BR)
 * Apple: [**Se você acha que seu ID Apple foi comprometido**](https://support.apple.com/pt-br/HT204145)
 * Facebook: [**Eu acho que minha conta do Facebook foi invadida ou alguém a está usando sem minha permissão**](https://www.facebook.com/help/203305893040179)
