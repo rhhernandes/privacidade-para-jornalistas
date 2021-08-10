@@ -160,7 +160,7 @@ Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns po
 
 Entre no aplicativo pelo seu próprio telefone e ative a conta por ali. Isso deve ser o suficiente para remover os invasores, já que o WhatsApp não fica ativo em dois telefones ao mesmo tempo.
 
-Se não funcionar, entre em contato com a equipe de atendimento do WhatsApp, escrevendo para [support@whatsapp.com](mailto:support@whatsapp.com). O email pode ser enviado em português. No assunto, inclua "conta roubada" e o número de telefone em formato internacional (+55, DDD e o número). Ex.: "Conta roubada / +55 11 1234-5678".
+Se não funcionar, entre em contato com a equipe de atendimento do WhatsApp, escrevendo para [**support@whatsapp.com**](mailto:support@whatsapp.com). O email pode ser enviado em português. No assunto, inclua "conta roubada" e o número de telefone em formato internacional (+55, DDD e o número). Ex.: "Conta roubada / +55 11 1234-5678".
 
 Alerte parentes e amigos de que pode ter havido tentativas de golpes usando seu nome. Faça um BO.
 
