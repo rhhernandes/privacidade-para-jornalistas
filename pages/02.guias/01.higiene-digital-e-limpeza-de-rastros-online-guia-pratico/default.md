@@ -16,7 +16,6 @@ metadata:
 taxonomy:
     tag:
         - doxxing
-        - 'assédio online'
 media_order: 'luca-bravo-9l_326FISzk-unsplash.jpg,CROPluca-bravo-9l_326FISzk-unsplash.jpg'
 ---
 
