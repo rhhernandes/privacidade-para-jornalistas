@@ -243,6 +243,8 @@ O NYT tem [**orientações mais extensas**](https://docs.google.com/document/d/1
 
 Fale comigo: Raphael Hernandes (Rapha) - por [**email**](mailto:r@privacidadeparajornalistas.org) ou no [**Twitter**](https://twitter.com/hernandesraph).
 
+Agradecimentos a [Sean Sposito](https://twitter.com/seansposito), de [The Paranoids](https://twitter.com/TheParanoids), pela orientação ao construir este guia.
+
 Mais informações sobre cibersegurança e guias avançados: [**Privacidade para Jornalistas**](https://privacidadeparajornalistas.org/)
 
 * Privacidade para Jornalistas: [**Guia prático de recuperação de contas**](/guias/recuperacao-de-contas-guia-pratico)
