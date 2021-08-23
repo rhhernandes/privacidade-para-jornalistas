@@ -141,6 +141,8 @@ O Facebook e o Google possuem sistemas de check-up de segurança e privacidade p
 
 Fale comigo: Raphael Hernandes (Rapha) - por [**email**](mailto:r@privacidadeparajornalistas.org) ou no [**Twitter**](https://twitter.com/hernandesraph).
 
+Agradecimentos a [Sean Sposito](https://twitter.com/seansposito), de [The Paranoids](https://twitter.com/TheParanoids), pela orientação ao construir este guia.
+
 Mais informações sobre cibersegurança e guias avançados: [**Privacidade para Jornalistas**](/)
 
 * Privacidade para Jornalistas: [**guia prático de higiene digital e limpeza de rastros online**](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico)
