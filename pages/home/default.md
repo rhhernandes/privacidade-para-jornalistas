@@ -39,3 +39,5 @@ visible: true
 * [Análise de ameaças](/ameacas): Para ajudar a entender seus adversários
 * [Guias práticos](/guias): Para defender os dados dos jornalistas e as informações de suas fontes
 * [Links úteis](/links-uteis): Coleção de dicas de segurança, leis, grupos e associações para defender a privacidade
+
+!!!! **Veja nossos novos guias práticos** voltados ao combate do assédio online contra jornalistas: [**Higiene digital e limpeza de rastros online**](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico) e  [**Recuperação de contas**](/guias/recuperacao-de-contas-guia-pratico)
