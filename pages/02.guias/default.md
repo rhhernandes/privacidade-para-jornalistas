@@ -26,13 +26,13 @@ external_links:
 
 [TOC]
 
+!!!! **Veja nossos novos guias práticos** voltados ao combate do assédio online contra jornalistas: [**Higiene digital e limpeza de rastros online**](/guias/higiene-digital-e-limpeza-de-rastros-online-guia-pratico) e  [**Recuperação de contas**](/guias/recuperacao-de-contas-guia-pratico)
+
 Sabemos que a  proteção das fontes é importante. Portanto, compilamos alguns guias práticos para te ajudar a manter suas fontes privadas.
 
 Recomendamos ler nosso guia de [análise de ameaças](/ameacas) antes, para poder escolher as ferramentas apropriadas para a sua necessidade.
 
 Um bom começo pode ser também ver o [guia básico para a proteção de jornalistas na internet](basico-protecao-jornalista-internet).
-
-!! Está página está em desenvolvimento. Continue acessando para ver os novos guias que serão adicionados
 
 ! Tem alguma sugestão de conteúdo que deveríamos adicionar aqui? [**Entre em contato**](mailto:contato@privacidadeparajornalistas.org) 
 
