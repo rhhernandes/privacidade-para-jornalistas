@@ -5,13 +5,13 @@ metadata:
     description: 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
     'og:title': 'Guia prático de recuperação de contas | Privacidade para Jornalistas'
     'og:description': 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
-    'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/02.recuperacao-de-contas-guia-pratico/CROPneonbrand-mgYAR7BzBk4-unsplash.jpg'
+    'og:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/02.recuperacao-de-contas-guia-pratico/neonbrand-mgYAR7BzBk4-unsplash.jpg'
     'twitter:card': summary_large_image
     'twitter:site': '@hernandesraph'
     'twitter:creator': '@hernandesraph'
     'twitter:title': 'Guia prático de recuperação de contas | Privacidade para Jornalistas'
     'twitter:description': 'Este guia é para quando você perceber que tem algo estranho acontecendo nas suas contas. Talvez ligue o celular e veja uma notificação estranha de tentativa de login, ou tenha um tweet no seu perfil que não foi você quem fez, ou seus contatos do WhatsApp passaram a receber mensagens pedindo dinheiro. Vamos te ajudar a reconquistar o acesso a sua vida digital e, seguindo algumas dicas, aumentar a segurança para o futuro.'
-    'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/02.recuperacao-de-contas-guia-pratico/CROPneonbrand-mgYAR7BzBk4-unsplash.jpg'
+    'twitter:image': 'https://privacidadeparajornalistas.org/user/pages/02.guias/02.recuperacao-de-contas-guia-pratico/neonbrand-mgYAR7BzBk4-unsplash.jpg'
 taxonomy:
     tag:
         - 'recuperação de contas'
