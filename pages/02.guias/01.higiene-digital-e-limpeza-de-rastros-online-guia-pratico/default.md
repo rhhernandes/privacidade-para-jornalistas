@@ -253,7 +253,7 @@ Mais informações sobre cibersegurança e guias avançados: [**Privacidade para
 * NYT Open: [**A Guide to Doxxing Yourself on the Internet**](https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit#heading=h.lamti05zshb8)
 * Apple: [**Device and Data Access when Personal Safety is At Risk**](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
 * EFF: [**Segurança do jornalista em viagem**](https://ssd.eff.org/pt-br/playlist/jornalista-em-viagem)
-* Pen Foundation: [**Online harassment field manual**](https://onlineharassmentfieldmanual.pen.org/prepare-for-online-harassment/)
+* Pen America: [**Online harassment field manual**](https://onlineharassmentfieldmanual.pen.org/prepare-for-online-harassment/)
 * GIJN: [**Digital Security**](https://gijn.org/digital-security/)
 * Centre for Law and Democracy: [**Digital Security Guide for Journalists**](https://www.law-democracy.org/live/wp-content/uploads/2017/12/Digital-Security-Guide.final_.pdf)
 
