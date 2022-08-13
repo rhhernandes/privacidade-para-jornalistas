@@ -93,7 +93,7 @@ Só instalar o gerenciador não adianta. É necessário entrar em cada serviço/
 
 !!! **Dica**: é rapidinho para se acostumar com o gerenciador, mas até lá, é mais fácil copiar e colar as senhas criadas pelo gerador e garantir que elas estejam salvas no sistema.
 
-## Passo 2: proteja-se de ataques contra seu chip de celular
+## Passo 2: Proteja-se de ataques contra seu chip de celular
 
 _Tempo estimado para completar esta etapa: de 5 a 10 minutos_
 
@@ -143,7 +143,7 @@ Este [**outro guia**](https://twofactorauth.org/) (também em inglês) traz tudo
 
 _Tempo estimado para completar esta etapa: 5 minutos_
 
-Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns por um motivo: é fácil roubar uma conta. Por mais que [**os métodos variem**]('https://www1.folha.uol.com.br/tec/2019/06/saiba-proteger-seu-whatsapp-de-hackers-e-entenda-como-o-ataque-acontece.shtml'), usar autenticação em dois fatores no mensageiro dá uma proteção extra contra quase todos eles. Como fazer:
+Golpes mirando o WhatsApp são bastante comuns no Brasil são bastante comuns por um motivo: é fácil roubar uma conta. Por mais que [**os métodos variem**](https://www1.folha.uol.com.br/tec/2019/06/saiba-proteger-seu-whatsapp-de-hackers-e-entenda-como-o-ataque-acontece.shtml), usar autenticação em dois fatores no mensageiro dá uma proteção extra contra quase todos eles. Como fazer:
 
 !!! **Como funciona?** Via de regra, um "roubo de WhatsApp" nada mais é do que ativar a conta num outro telefone, do atacante. Para isso, ele precisa de um código que o WhatsApp envia por SMS na hora da ativação (ele pode interceptar a mensagem ou te ludibriar para passar esse código). Com a autenticação em dois fatores, além desse código, o atacante precisaria da senha que você configurou. Ou seja, se consegue acesso ao primeiro, ainda é travado na segunda barreira.
 
